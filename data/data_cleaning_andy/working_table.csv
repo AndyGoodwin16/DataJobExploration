@@ -1,0 +1,708 @@
+,job_title,low_end_salary,middle_range_salary,high_end_salary,company_name,job_location,sector,type_of_ownership,size_of_company,rating_of_company,cost_of_living_index,avg_salary_index,salary_col_differential
+0,Data Scientist,53000,72000,91000,Tecolote Research,"Albuquerque, NM",Aerospace & Defense,Company - Private,501 to 1000 employees,3.8,92.9,70.1,36402
+1,Healthcare Data Scientist,63000,87500,112000,University of Maryland Medical System,"Linthicum, MD",Health Care,Other Organization,10000+ employees,3.4,NaN,85.2,NaN
+2,Data Scientist,80000,85000,90000,KnowBe4,"Clearwater, FL",Business Services,Company - Private,501 to 1000 employees,4.8,NaN,82.8,NaN
+3,Data Scientist,56000,76500,97000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,74.5,NaN
+4,Data Scientist,86000,114500,143000,Affinity Solutions,"New York, NY",Business Services,Company - Private,51 to 200 employees,2.9,128.0,111.6,65566
+5,Data Scientist,71000,95000,119000,CyrusOne,"Dallas, TX",Real Estate,Company - Public,201 to 500 employees,3.4,98.5,92.6,57353
+6,Data Scientist,54000,73500,93000,ClearOne Advantage,"Baltimore, MD",Finance,Company - Private,501 to 1000 employees,4.1,107.0,71.6,32546
+7,Data Scientist,86000,114000,142000,Logic20/20,"San Jose, CA",Business Services,Company - Private,201 to 500 employees,3.8,173.5,111.1,47642
+8,Research Scientist,38000,61000,84000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,59.4,24003
+9,Data Scientist,120000,140000,160000,<intent>,"New York, NY",Information Technology,Company - Private,51 to 200 employees,4.6,128.0,136.4,91021
+10,Data Scientist,126000,163500,201000,Wish,"San Jose, CA",Retail,Company - Private,501 to 1000 employees,3.5,173.5,159.3,97114
+11,Data Scientist,64000,85000,106000,ManTech,"Chantilly, VA",Business Services,Company - Public,5001 to 10000 employees,4.1,NaN,82.8,NaN
+12,Staff Data Scientist - Technology,106000,139000,172000,Walmart,"Plano, TX",Retail,Company - Public,10000+ employees,3.2,NaN,135.4,NaN
+13,Data Analyst,46000,65500,85000,Yesler,"Seattle, WA",Business Services,Company - Private,201 to 500 employees,4.1,124.6,63.8,17805
+14,Data Scientist,83000,113500,144000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,110.6,NaN
+15,Data Engineer I,102000,146000,190000,Audible,"Newark, NJ",Media,Subsidiary or Business Segment,1001 to 5000 employees,3.6,NaN,142.2,NaN
+16,"Scientist I/II, Biology",67000,102000,137000,Blueprint Medicines,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,51 to 200 employees,3.9,NaN,99.4,NaN
+17,Customer Data Scientist,118000,153500,189000,h2o.ai,"Mountain View, CA",Information Technology,Company - Private,201 to 500 employees,4.3,NaN,149.6,NaN
+18,Data Scientist - Health Data Analytics,110000,142500,175000,Nuna,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.2,178.6,138.8,74121
+19,Data Scientist,64000,87500,111000,Pinnacol Assurance,"Denver, CO",Insurance,Nonprofit Organization,501 to 1000 employees,4.0,112.1,85.2,44553
+20,Data Scientist,81000,105500,130000,Porch,"Seattle, WA",Information Technology,Company - Private,201 to 500 employees,3.2,124.6,102.8,57835
+21,Senior Data Scientist / Machine Learning,73000,96000,119000,Health IQ,"Dallas, TX",Insurance,Company - Private,201 to 500 employees,3.9,98.5,93.5,58276
+22,Data Scientist - Quantitative,86000,112500,139000,Truckstop.com,"Chicago, IL",Transportation & Logistics,Company - Private,501 to 1000 employees,3.8,100.1,109.6,74189
+23,Data Scientist,63000,84000,105000,SMC 3,"Louisville, KY",Transportation & Logistics,Nonprofit Organization,51 to 200 employees,4.3,91.6,81.8,48908
+24,Data Scientist,109000,143000,177000,Novetta,"Herndon, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,139.3,NaN
+25,Digital Health Data Scientist,63000,86500,110000,Pfizer,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,NaN,84.3,NaN
+26,Data Scientist,75000,99500,124000,First Tech Federal Credit Union,"Hillsboro, OR",Finance,Company - Private,1001 to 5000 employees,3.5,NaN,96.9,NaN
+27,Associate Data Analyst,34000,47500,61000,The Hanover Insurance Group,"Worcester, MA",Insurance,Company - Public,5001 to 10000 employees,3.7,113.2,46.3,4205
+28,Clinical Data Scientist,63000,84000,105000,Pfizer,"Groton, CT",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,NaN,81.8,NaN
+29,Data Scientist,80000,85000,90000,KnowBe4,"Clearwater, FL",Business Services,Company - Private,501 to 1000 employees,4.8,NaN,82.8,NaN
+30,Data Scientist,56000,76500,97000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,74.5,NaN
+31,Data Scientist,72000,96000,120000,Amrock,"Detroit, MI",Real Estate,Company - Private,1001 to 5000 employees,3.6,93.2,93.5,60305
+32,Data Scientist / Machine Learning Expert,86000,114500,143000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,111.6,NaN
+33,Data Scientist,93000,121000,149000,Juniper Networks,"Sunnyvale, CA",Telecommunications,Company - Public,5001 to 10000 employees,3.8,NaN,117.9,NaN
+34,Data Scientist,85000,112500,140000,New England Biolabs,"Ipswich, MA",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,4.7,NaN,109.6,NaN
+35,Web Data Analyst,77000,106000,135000,Clarity Insights,"San Jose, CA",Information Technology,Company - Private,201 to 500 employees,4.2,173.5,103.3,39636
+36,Data Scientist,82000,107000,132000,Esri,"Redlands, CA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,104.2,NaN
+37,Data Scientist,83000,110000,137000,Systems & Technology Research,"Woburn, MA",Aerospace & Defense,Company - Private,201 to 500 employees,4.7,NaN,107.2,NaN
+38,Senior Data Scientist,115000,147500,180000,Sartorius,"Fremont, CA",Biotech & Pharmaceuticals,Company - Public,5001 to 10000 employees,3.5,NaN,143.7,NaN
+39,Data Engineer,74000,106000,138000,Lancer Insurance,"Long Beach, NY",Insurance,Company - Private,201 to 500 employees,3.5,NaN,103.3,NaN
+40,Data Analyst,64000,88000,112000,Sauce Labs,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,4.2,178.6,85.7,19619
+41,Data Engineer,68000,98500,129000,Persivia,"Marlborough, MA",-1,Company - Private,1 to 50 employees,3.6,NaN,96.0,NaN
+42,Data Scientist - Algorithms & Inference,110000,142500,175000,Nuna,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.2,178.6,138.8,74121
+43,Scientist,52000,82500,113000,Edgewell Personal Care,"Allendale, NJ",Manufacturing,Company - Public,5001 to 10000 employees,3.4,NaN,80.4,NaN
+44,Senior Data Scientist,110000,130000,150000,Equity Residential,"Chicago, IL",Real Estate,Company - Public,1001 to 5000 employees,4.3,100.1,126.7,91741
+45,Data Scientist,150000,155000,160000,BPA Services,"Washington, DC",Information Technology,Company - Private,Unknown,5.0,120.1,151.0,109029
+46,Lead Data Scientist,158000,184500,211000,Visa Inc.,"Bellevue, WA",Information Technology,Company - Public,10000+ employees,3.7,NaN,179.8,NaN
+47,Associate Data Analyst,20000,29500,39000,Intrado,"Longmont, CO",Information Technology,Company - Private,5001 to 10000 employees,3.1,NaN,28.7,NaN
+48,Spectral Scientist/Engineer,56000,86500,117000,Centauri,"Beavercreek, OH",Aerospace & Defense,Company - Private,501 to 1000 employees,4.7,NaN,84.3,NaN
+49,College Hire - Data Scientist - Open to December 2019 Graduates,63000,81000,99000,Caterpillar,"Peoria, IL",Manufacturing,Company - Public,10000+ employees,3.7,86.7,78.9,47806
+50,Data Scientist,68000,91000,114000,Zimmerman Advertising,"Fort Lauderdale, FL",Business Services,Subsidiary or Business Segment,501 to 1000 employees,3.8,NaN,88.7,NaN
+51,"Data Scientist, Office of Data Science",86000,114500,143000,Liberty Mutual Insurance,"Boston, MA",Insurance,Company - Private,10000+ employees,3.3,132.6,111.6,63806
+52,Data Science Analyst,41000,68000,95000,"Torch Technologies, Inc.","Huntsville, AL",Aerospace & Defense,Company - Private,1001 to 5000 employees,4.6,91.3,66.3,33113
+53,Data Scientist,86000,115000,144000,Swiss Re,"Armonk, NY",Insurance,Company - Public,10000+ employees,3.7,NaN,112.0,NaN
+54,Data Scientist,80000,109500,139000,Northrop Grumman,"San Diego, CA",Aerospace & Defense,Company - Public,10000+ employees,3.7,136.2,106.7,57399
+55,Data Scientist,56000,75500,95000,Sartorius,"Albuquerque, NM",Biotech & Pharmaceuticals,Company - Public,5001 to 10000 employees,3.5,92.9,73.6,39994
+56,Data Scientist,120000,154500,189000,Netskope,"San Francisco, CA",Information Technology,Company - Private,501 to 1000 employees,4.1,178.6,150.5,86130
+57,Data Scientist,111000,143500,176000,1904labs,"Saint Louis, MO",Information Technology,Company - Private,51 to 200 employees,4.7,NaN,139.8,NaN
+58,Data Scientist,54000,73500,93000,ClearOne Advantage,"Baltimore, MD",Finance,Company - Private,501 to 1000 employees,4.1,107.0,71.6,32546
+59,Data Scientist,71000,95000,119000,CyrusOne,"Dallas, TX",Real Estate,Company - Public,201 to 500 employees,3.4,98.5,92.6,57353
+60,Senior Data Scientist,82000,107000,132000,The David J. Joseph Company,"Cincinnati, OH",Mining & Metals,Subsidiary or Business Segment,201 to 500 employees,4.4,92.4,104.2,71593
+61,Data Scientist,84000,115000,146000,USEReady,"New York, NY",Business Services,Company - Private,201 to 500 employees,4.3,128.0,112.0,65976
+62,Senior Risk Data Scientist,107000,139500,172000,Bill.com,"Palo Alto, CA",Finance,Company - Public,501 to 1000 employees,3.8,NaN,135.9,NaN
+63,Data Scientist in Artificial Intelligence Early Career,49000,67000,85000,Pacific Northwest National Laboratory,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,65.3,NaN
+64,Data Scientist,61000,85000,109000,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",Retail,Company - Public,10000+ employees,3.8,NaN,82.8,NaN
+65,Data Scientist,88000,118000,148000,Berg Health,"Framingham, MA",Biotech & Pharmaceuticals,Company - Private,51 to 200 employees,2.8,NaN,115.0,NaN
+66,Data Scientist,60000,79500,99000,Oversight Systems,"Atlanta, GA",Information Technology,Company - Private,51 to 200 employees,4.7,100.3,77.5,41165
+67,Data Scientist - Research,41000,56500,72000,C Space,"Boston, MA",Business Services,Company - Public,201 to 500 employees,3.1,132.6,55.0,5711
+68,Data Scientist,96000,128500,161000,"Numeric, LLC","Philadelphia, PA",Business Services,Company - Private,1 to 50 employees,3.2,103.4,125.2,88938
+69,R&D Data Analysis Scientist,65000,97500,130000,HP Inc.,"Vancouver, WA",Information Technology,Company - Public,10000+ employees,4.0,NaN,95.0,NaN
+70,Analytics Consultant,52000,66500,81000,SpringML,"Indianapolis, IN",Information Technology,Company - Private,1 to 50 employees,4.4,90.2,64.8,31995
+71,"Director, Data Science",139000,179500,220000,Grainger,"Lake Forest, IL",Business Services,Company - Public,10000+ employees,3.6,NaN,174.9,NaN
+72,Scientist,50000,76000,102000,EAG Laboratories,"Maryland Heights, MO",Business Services,Subsidiary or Business Segment,501 to 1000 employees,2.7,NaN,74.0,NaN
+73,Data Scientist SR,85000,112000,139000,The Buffalo Group,"Charlottesville, VA",Information Technology,Company - Private,501 to 1000 employees,3.9,102.1,109.1,72911
+74,Data Scientist,74000,98000,122000,Carmeuse,"Pittsburgh, PA",Mining & Metals,Company - Private,1001 to 5000 employees,3.1,93.1,95.5,62396
+75,R&D Sr Data Scientist,99000,128000,157000,HP Inc.,"Vancouver, WA",Information Technology,Company - Public,10000+ employees,4.0,NaN,124.7,NaN
+76,Customer Data Scientist/Sales Engineer (Bay,79000,150500,222000,h2o.ai,"Mountain View, CA",Information Technology,Company - Private,201 to 500 employees,4.3,NaN,146.6,NaN
+77,Research Scientist,57000,87500,118000,GNS Healthcare,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Private,51 to 200 employees,1.9,NaN,85.2,NaN
+78,Data Scientist,83000,110000,137000,Peraton,"Chantilly, VA",Aerospace & Defense,Company - Private,1001 to 5000 employees,3.3,NaN,107.2,NaN
+79,Data Scientist,86000,113500,141000,Pactera,"San Jose, CA",Information Technology,Company - Private,10000+ employees,4.4,173.5,110.6,47128
+80,Data Scientist,94000,124000,154000,Nurx,"San Francisco, CA",Health Care,Company - Private,51 to 200 employees,3.9,178.6,120.8,55646
+81,Jr. Business Data Analyst,37000,56500,76000,webfx.com,"Harrisburg, PA",Business Services,Company - Private,201 to 500 employees,4.7,95.8,55.0,19793
+82,Data Scientist,100000,130000,160000,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD",Aerospace & Defense,Nonprofit Organization,5001 to 10000 employees,4.5,NaN,126.7,NaN
+83,Data Analyst,55000,77500,100000,Productive Edge,"Chicago, IL",Information Technology,Company - Private,51 to 200 employees,4.3,100.1,75.5,39189
+84,Data Engineer,60000,87000,114000,Excella Consulting,"Arlington, VA",Business Services,Company - Private,201 to 500 employees,4.0,NaN,84.8,NaN
+85,Data Analyst,39000,53500,68000,Gensco,"Tacoma, WA",Business Services,Company - Private,501 to 1000 employees,4.4,NaN,52.1,NaN
+86,Staff Data Scientist - Technology,106000,139000,172000,Walmart,"Plano, TX",Retail,Company - Public,10000+ employees,3.2,NaN,135.4,NaN
+87,Data Scientist,86000,114000,142000,Logic20/20,"San Jose, CA",Business Services,Company - Private,201 to 500 employees,3.8,173.5,111.1,47642
+88,Data Scientist,64000,85500,107000,goTRG,"Miami, FL",Information Technology,Company - Private,501 to 1000 employees,4.2,110.1,83.3,43368
+89,Data Management Specialist,31000,48000,65000,NMR Consulting,"Huntsville, AL",Information Technology,Company - Private,51 to 200 employees,4.5,91.3,46.8,13099
+90,E-Commerce Data Analyst,34000,48000,62000,iSeatz,"New Orleans, LA",Information Technology,Company - Private,51 to 200 employees,3.5,92.4,46.8,12678
+91,Sr. Scientist II,117000,174000,231000,Nektar Therapeutics,"San Francisco, CA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,3.5,178.6,169.5,105632
+92,Insurance Data Scientist,64000,85000,106000,TransUnion,"Atlanta, GA",Finance,Company - Public,5001 to 10000 employees,3.9,100.3,82.8,46605
+93,Data Modeler,79000,106500,134000,IT Concepts,"Landover, MD",Information Technology,Company - Private,51 to 200 employees,4.7,NaN,103.8,NaN
+94,Data Analyst / Scientist,52000,72500,93000,Scientific Research Corporation,"Patuxent River, MD",Information Technology,Company - Private,1001 to 5000 employees,4.2,NaN,70.6,NaN
+95,Scientist,55000,85500,116000,General Dynamics Information Technology,"Suitland, MD",Information Technology,Subsidiary or Business Segment,10000+ employees,3.4,NaN,83.3,NaN
+96,Data Scientist,72000,97500,123000,MITRE,"McLean, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,95.0,NaN
+97,Data Scientist,74000,99000,124000,The Buffalo Group,"Fort Belvoir, VA",Information Technology,Company - Private,501 to 1000 employees,3.9,NaN,96.5,NaN
+98,Data Analyst,40000,56500,73000,DentaQuest,"Milwaukee, WI",Insurance,Company - Private,1001 to 5000 employees,3.1,93.8,55.0,20559
+99,Lead Data Scientist,102000,133000,164000,Redjack,"Silver Spring, MD",Information Technology,Company - Private,1 to 50 employees,4.1,NaN,129.6,NaN
+100,Data Scientist,89000,121000,153000,7Park Data,"New York, NY",Business Services,Company - Private,51 to 200 employees,3.8,128.0,117.9,72032
+101,Data Scientist,61000,85500,110000,Rapid Response Monitoring,"Syracuse, NY",Business Services,Company - Private,501 to 1000 employees,4.7,95.1,83.3,49108
+102,"Data Scientist, Rice University",65000,87500,110000,Trilogy Ed,"Houston, TX",Education,Subsidiary or Business Segment,1001 to 5000 employees,4.3,95.8,85.2,50790
+103,Senior Data Scientist,200000,237500,275000,Gallup,"Washington, DC",Business Services,Company - Private,1001 to 5000 employees,4.2,120.1,231.4,191552
+104,Data Engineer,68000,95500,123000,CapTech,"Charlotte, NC",Information Technology,Company - Private,1001 to 5000 employees,3.9,97.9,93.0,57993
+105,Senior Data Scientist,80000,104500,129000,American Axle & Manufacturing,"Southfield, MI",Manufacturing,Company - Public,10000+ employees,3.3,NaN,101.8,NaN
+106,Financial Data Analyst,41000,56500,72000,CentralReach,"Matawan, NJ",Information Technology,Company - Private,201 to 500 employees,4.7,NaN,55.0,NaN
+107,Senior Data Analyst,39000,55000,71000,Integrate,"Phoenix, AZ",Information Technology,Company - Private,201 to 500 employees,4.3,104.3,53.6,15104
+108,Research Scientist,38000,61500,85000,Boys Town Hospital,"Omaha, NE",Health Care,Hospital,1001 to 5000 employees,2.9,92.9,59.9,25932
+109,Data Scientist,121000,157000,193000,Demandbase,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,4.5,178.6,153.0,88696
+110,Data Engineer,54000,78000,102000,Sapphire Digital,"Lyndhurst, NJ",Information Technology,Company - Private,201 to 500 employees,3.4,NaN,76.0,NaN
+111,Data Scientist,83000,113500,144000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,110.6,NaN
+112,Data Scientist,120000,140000,160000,<intent>,"New York, NY",Information Technology,Company - Private,51 to 200 employees,4.6,128.0,136.4,91021
+113,Data Scientist,102000,132500,163000,Formation,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,3.2,178.6,129.1,64165
+114,Data Engineer,76000,108000,140000,Autodesk,"San Francisco, CA",Information Technology,Company - Public,5001 to 10000 employees,4.0,178.6,105.2,39634
+115,Ag Data Scientist,60000,80500,101000,Beck's Hybrids,"Atlanta, IN",Agriculture & Forestry,Company - Private,501 to 1000 employees,4.6,NaN,78.4,NaN
+116,Data Scientist,82000,107500,133000,DrFirst,"Rockville, MD",Health Care,Company - Private,201 to 500 employees,2.8,NaN,104.7,NaN
+117,Data Engineer,65000,95000,125000,Object Partners,"Minneapolis, MN",Business Services,Company - Private,51 to 200 employees,4.7,105.4,92.6,54712
+118,Data Scientist II,91000,119500,148000,L.A. Care Health Plan,"Los Angeles, CA",Health Care,Nonprofit Organization,1001 to 5000 employees,3.0,140.6,116.4,65671
+119,Senior Data Engineer,95000,134000,173000,Red Ventures,"Charlotte, NC",Business Services,Company - Private,1001 to 5000 employees,3.2,97.9,130.6,96585
+120,Data Scientist,77000,100500,124000,Quick Base,"Cambridge, MA",Information Technology,Company - Private,201 to 500 employees,4.4,NaN,97.9,NaN
+121,Data Scientist,80000,107500,135000,The E.W. Scripps Company,"Cincinnati, OH",Media,Company - Public,1001 to 5000 employees,3.5,92.4,104.7,72106
+122,Data Engineer,85000,122000,159000,Upside Business Travel,"Washington, DC",Information Technology,Company - Private,51 to 200 employees,4.0,120.1,118.9,76082
+123,Data Engineer,80000,92500,105000,Equity Residential,"Chicago, IL",Real Estate,Company - Public,1001 to 5000 employees,4.3,100.1,90.1,54174
+124,Data Analyst,43000,62000,81000,Synagro,"Baltimore, MD",Business Services,Company - Private,501 to 1000 employees,2.3,107.0,60.4,21050
+125,Project Scientist,29000,39500,50000,Alliance Source Testing,"Alabaster, AL",Business Services,Unknown,51 to 200 employees,4.0,NaN,38.5,NaN
+126,Data Scientist,82000,107500,133000,Accuride International,"Santa Fe Springs, Los Angeles, CA",Manufacturing,Company - Private,1001 to 5000 employees,3.6,NaN,104.7,NaN
+127,Data Analytics Manager,26000,40500,55000,Full Potential Solutions,"Kansas City, MO",Business Services,Company - Private,501 to 1000 employees,3.8,91.6,39.5,5491
+128,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,61000,89500,118000,Visa Inc.,"Ashburn, VA",Information Technology,Company - Public,10000+ employees,3.7,NaN,87.2,NaN
+129,Data Scientist,60000,81000,102000,Maven Wave Partners,"Chicago, IL",Business Services,Company - Private,201 to 500 employees,4.4,100.1,78.9,42679
+130,Senior Data Scientist,112000,147000,182000,Novetta,"Herndon, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,143.2,NaN
+131,Data Scientist,64000,85000,106000,"First Command Financial Services, Inc.","Fort Worth, TX",Finance,Company - Private,1001 to 5000 employees,3.2,NaN,82.8,NaN
+132,Associate Scientist,51000,81500,112000,Pharmavite,"Valencia, CA",Manufacturing,Company - Private,1001 to 5000 employees,2.9,NaN,79.4,NaN
+133,"Scientist 2, QC Viral Vector",113000,168000,223000,BioMarin Pharmaceutical,"Novato, CA",Biotech & Pharmaceuticals,Company - Public,1001 to 5000 employees,3.8,NaN,163.7,NaN
+134,Machine Learning Engineer,72000,100500,129000,Stratagem Group,"Aurora, CO",Aerospace & Defense,Company - Private,1 to 50 employees,4.3,NaN,97.9,NaN
+135,Data Scientist/ML Engineer,71000,97000,123000,PA Consulting,"New York, NY",Business Services,Company - Private,1001 to 5000 employees,3.4,128.0,94.5,48014
+136,Data Scientist,64000,85000,106000,ManTech,"Chantilly, VA",Business Services,Company - Public,5001 to 10000 employees,4.1,NaN,82.8,NaN
+137,Customer Data Scientist,118000,153500,189000,h2o.ai,"Mountain View, CA",Information Technology,Company - Private,201 to 500 employees,4.3,NaN,149.6,NaN
+138,Data Engineer,120000,132500,145000,Gridiron IT,"Tampa, FL",Information Technology,Company - Private,51 to 200 employees,5.0,101.4,129.1,93707
+139,Data Engineer,80000,100000,120000,Productive Edge,"Chicago, IL",Information Technology,Company - Private,51 to 200 employees,4.3,100.1,97.4,61667
+140,Sr. Data Scientist,80000,105000,130000,Evolve Vacation Rental,"Denver, CO",Travel & Tourism,Company - Private,201 to 500 employees,3.7,112.1,102.3,62105
+141,Data Engineer 4 - Contract,59000,87000,115000,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,NaN,84.8,NaN
+142,Data Analyst - Asset Management,71000,103500,136000,Maximus Real Estate Partners,"San Francisco, CA",Real Estate,Company - Private,51 to 200 employees,4.3,178.6,100.8,35118
+143,Senior Research Scientist - Embedded System Development for DevOps,81000,124000,167000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,120.8,88364
+144,Data Scientist - Bioinformatics,49000,67000,85000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,65.3,NaN
+145,Data Engineer,60000,87000,114000,AVANADE,"Washington, DC",Information Technology,Company - Private,10000+ employees,3.9,120.1,84.8,41081
+146,Customer Data Scientist/Sales Engineer,71000,137500,204000,h2o.ai,"Chicago, IL",Information Technology,Company - Private,201 to 500 employees,4.3,100.1,134.0,99233
+147,Lead Data Scientist,75000,100000,125000,PatientPoint,"Cincinnati, OH",Business Services,Company - Private,201 to 500 employees,3.8,92.4,97.4,64614
+148,MongoDB Data Engineer II,77000,106500,136000,BlueCross BlueShield of Tennessee,"Chattanooga, TN",Insurance,Nonprofit Organization,5001 to 10000 employees,3.8,91.2,103.8,71642
+149,Senior Data Scientist Statistics,74000,98500,123000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,96.0,NaN
+150,Senior Data Analyst,44000,61000,78000,KnowBe4,"Clearwater, FL",Business Services,Company - Private,501 to 1000 employees,4.8,NaN,59.4,NaN
+151,Senior Spark Engineer (Data Science),65000,106500,148000,KSM Consulting,"Indianapolis, IN",Business Services,Company - Private,51 to 200 employees,4.4,90.2,103.8,72024
+152,Data Engineer,59000,84500,110000,Cogo Labs,"Cambridge, MA",Information Technology,Company - Private,51 to 200 employees,3.9,NaN,82.3,NaN
+153,BI & Platform Analytics Manager,85000,109500,134000,Church & Dwight,"Ewing, NJ",Manufacturing,Company - Public,1001 to 5000 employees,3.4,NaN,106.7,NaN
+154,Lead Data Scientist,124000,164000,204000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,159.8,113278
+155,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",131000,169000,207000,Genentech,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,10000+ employees,3.9,NaN,164.7,NaN
+156,Senior Data Scientist,110000,142000,174000,Juniper Networks,"Cupertino, CA",Telecommunications,Company - Public,5001 to 10000 employees,3.8,NaN,138.3,NaN
+157,Pricipal Scientist Molecular and cellular biologist,52000,76500,101000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,74.5,25726
+158,"Data Scientist (Actuary, FSA or ASA)",81000,107000,133000,Legal & General America,"Frederick, MD",Insurance,Company - Private,501 to 1000 employees,3.8,NaN,104.2,NaN
+159,Staff Data Scientist,132000,171500,211000,Western Digital,"San Jose, CA",Information Technology,Company - Public,10000+ employees,3.5,173.5,167.1,105120
+160,Senior Data Scientist / Machine Learning,73000,96000,119000,Health IQ,"Dallas, TX",Insurance,Company - Private,201 to 500 employees,3.9,98.5,93.5,58276
+161,Data Scientist - Health Data Analytics,110000,142500,175000,Nuna,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.2,178.6,138.8,74121
+162,Data Engineer 5 - Contract (Remote),74000,107000,140000,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,NaN,104.2,NaN
+163,Senior Scientist - Neuroscience,100000,145000,190000,Sunovion,"Marlborough, MA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,3.5,NaN,141.3,NaN
+164,Senior Data Analyst,43000,61500,80000,National Student Clearinghouse,"Herndon, VA",Education,Nonprofit Organization,201 to 500 employees,2.9,NaN,59.9,NaN
+166,"Risk and Analytics IT, Data Scientist",91000,120000,149000,State of Wisconsin Investment Board,"Madison, WI",Finance,Government,51 to 200 employees,2.7,99.5,116.9,81912
+167,"Scientist, Analytical Development",42000,62000,82000,Rubius Therapeutics,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,60.4,NaN
+168,Senior Data Scientist,116000,150500,185000,Autodesk,"San Francisco, CA",Information Technology,Company - Public,5001 to 10000 employees,4.0,178.6,146.6,82127
+169,Analytics Manager,59000,87500,116000,OneMagnify,"Dearborn, MI",Business Services,Company - Private,201 to 500 employees,4.3,NaN,85.2,NaN
+170,Data Engineer,48000,71500,95000,IZEA,"Winter Park, FL",Business Services,Company - Public,51 to 200 employees,4.2,NaN,69.7,NaN
+171,Digital Marketing & ECommerce Data Analyst,31000,51500,72000,Vionic Group,"San Rafael, CA",Retail,Subsidiary or Business Segment,51 to 200 employees,3.6,NaN,50.2,NaN
+172,Sr. Scientist - Digital & Image Analysis/Computational Pathology,105000,151500,198000,Takeda Pharmaceuticals,"San Diego, CA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,136.2,147.6,99378
+173,Senior Data Analyst,55000,77500,100000,Dodge Data & Analytics,"Hamilton, NJ",Information Technology,Company - Private,201 to 500 employees,2.8,NaN,75.5,NaN
+174,Principal Scientist - Immunologist,98000,140000,182000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,136.4,89260
+175,Senior Data Scientist,73000,98500,124000,Plymouth Rock Assurance,"Woodbridge, NJ",Insurance,Company - Private,1001 to 5000 employees,3.3,NaN,96.0,NaN
+178,"Sr. Scientist, Quantitative Translational Sciences",117000,161500,206000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,157.3,110712
+179,Sr. Data Scientist II,111000,147000,183000,Argo Group US,"New York, NY",Insurance,Company - Public,1001 to 5000 employees,3.4,128.0,143.2,98000
+180,Excel / VBA / SQL Data Analyst,44000,61000,78000,Associated Electric Cooperative,"Springfield, MO","Oil, Gas, Energy & Utilities",Company - Private,501 to 1000 employees,4.1,86.7,59.4,27792
+181,Machine Learning Research Scientist,81000,120000,159000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,116.9,84361
+182,"VP, Data Science",83000,124500,166000,PennyMac,"Phoenix, AZ",Finance,Company - Public,1001 to 5000 employees,3.2,104.3,121.3,84591
+183,Senior Data Scientist,114000,148000,182000,Zest AI,"Burbank, CA",Finance,Company - Private,51 to 200 employees,3.9,NaN,144.2,NaN
+184,Radar Data Analyst,42000,59000,76000,DECISIVE ANALYTICS Corporation,"Huntsville, AL",Aerospace & Defense,Company - Private,51 to 200 employees,4.7,91.3,57.5,24081
+185,PL Actuarial-Lead Data Scientist,114000,146500,179000,The Hanover Insurance Group,"Worcester, MA",Insurance,Company - Public,5001 to 10000 employees,3.7,113.2,142.7,103150
+186,PV Scientist,60000,91500,123000,Karyopharm Therapeutics Inc.,"Newton, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.9,NaN,89.1,NaN
+187,Senior Data & Machine Learning Scientist,100000,133000,166000,Tempus Labs,"Chicago, IL",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,3.0,100.1,129.6,94717
+188,Principal Data Scientist (Computational Chemistry),108000,140500,173000,Recursion Pharmaceuticals,"Salt Lake City, UT",Biotech & Pharmaceuticals,Company - Private,51 to 200 employees,4.7,105.9,136.9,99991
+189,Data Engineer,48000,70500,93000,P2 Energy Solutions,"Lafayette, LA",Information Technology,Company - Private,501 to 1000 employees,3.7,89.6,68.7,36227
+190,"Principal Scientist, Chemistry & Immunology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+191,Software Engineer - Data Visualization,60000,93500,127000,ClearEdge,"Annapolis Junction, MD",Information Technology,Company - Private,51 to 200 employees,4.0,NaN,91.1,NaN
+192,"Scientist/Senior Scientist, Autoimmune",90000,134500,179000,Rubius Therapeutics,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,131.0,NaN
+193,Staff Machine Learning Engineer,138000,181000,224000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,176.3,112611
+194,"Principal Scientist, Hematology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+195,Lead Data Engineer,190000,205000,220000,Credit Sesame,"Mountain View, CA",Information Technology,Company - Private,51 to 200 employees,4.1,NaN,199.7,NaN
+196,Marketing Data Analyst,35000,48500,62000,San Manuel Casino,"Highland, CA","Arts, Entertainment & Recreation",Company - Private,1001 to 5000 employees,3.6,NaN,47.3,NaN
+198,R&D Specialist/ Food Scientist,39000,52500,66000,Teasdale Latin Foods,"Hoopeston, IL",Manufacturing,Company - Private,501 to 1000 employees,2.4,NaN,51.1,NaN
+199,Senior Research Scientist-Machine Learning,81000,124000,167000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,120.8,88364
+200,Analytics Manager - Data Mart,42000,64000,86000,Central California Alliance for Health,"Scotts Valley, CA",Health Care,Nonprofit Organization,501 to 1000 employees,3.5,NaN,62.4,NaN
+201,Sr. Data Engineer - Contract-to-Hire (Java),69000,98000,127000,Pilot Flying J Travel Centers LLC,"Knoxville, TN",Retail,Company - Private,10000+ employees,3.0,91.6,95.5,62970
+203,Food Scientist - Developer,40000,54000,68000,Palermo's Pizza,"Milwaukee, WI",Manufacturing,Company - Private,501 to 1000 employees,3.3,93.8,52.6,18095
+204,Staff Scientist-Downstream Process Development,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+205,Sr. Data Engineer,75000,107500,140000,Echo Global Logistics,"Chicago, IL",Transportation & Logistics,Company - Public,1001 to 5000 employees,3.4,100.1,104.7,69160
+206,Data Scientist - Quantitative,86000,112500,139000,Truckstop.com,"Chicago, IL",Transportation & Logistics,Company - Private,501 to 1000 employees,3.8,100.1,109.6,74189
+207,Data Scientist,66000,89000,112000,Lockheed Martin,"Herndon, VA",Aerospace & Defense,Company - Public,10000+ employees,3.7,NaN,86.7,NaN
+208,Senior Research Statistician- Data Scientist,76000,100500,125000,Acuity Insurance,"Sheboygan, WI",Insurance,Company - Private,1001 to 5000 employees,4.8,89.7,97.9,66160
+209,"Business Data Analyst, SQL",44000,65000,86000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,63.3,15991
+211,Data Scientist,53000,72500,92000,Credera,"Dallas, TX",Business Services,Subsidiary or Business Segment,201 to 500 employees,4.3,98.5,70.6,34772
+212,Senior Data Analyst,44000,61000,78000,KnowBe4,"Clearwater, FL",Business Services,Company - Private,501 to 1000 employees,4.8,NaN,59.4,NaN
+213,BI & Platform Analytics Manager,85000,109500,134000,Church & Dwight,"Ewing, NJ",Manufacturing,Company - Public,1001 to 5000 employees,3.4,NaN,106.7,NaN
+214,Data Engineer,59000,84500,110000,Cogo Labs,"Cambridge, MA",Information Technology,Company - Private,51 to 200 employees,3.9,NaN,82.3,NaN
+215,Data Scientist,64000,87500,111000,Spectrum Communications and Consulting,"Chicago, IL",Business Services,Company - Private,51 to 200 employees,3.4,100.1,85.2,49145
+216,Data Analyst,65000,92500,120000,NCSOFT,"San Mateo, CA",Media,Company - Public,1001 to 5000 employees,3.1,NaN,90.1,NaN
+217,Associate Data Scientist/Computer Scientist,60000,81500,103000,MITRE,"McLean, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,79.4,NaN
+218,Business Intelligence Analyst / Developer,53000,79000,105000,"Dayton Freight Lines, Inc.","Dayton, OH",Transportation & Logistics,Company - Private,1001 to 5000 employees,4.3,88.4,77.0,45206
+219,Lead Data Scientist,124000,164000,204000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,159.8,113278
+220,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",131000,169000,207000,Genentech,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,10000+ employees,3.9,NaN,164.7,NaN
+221,Senior Data Scientist,110000,142000,174000,Juniper Networks,"Cupertino, CA",Telecommunications,Company - Public,5001 to 10000 employees,3.8,NaN,138.3,NaN
+222,Data Analyst,33000,47500,62000,Community Action Partnership of San Luis Obispo,"Parlier, CA",Non-Profit,Nonprofit Organization,501 to 1000 employees,2.8,NaN,46.3,NaN
+223,Pricipal Scientist Molecular and cellular biologist,52000,76500,101000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,74.5,25726
+224,Data Analyst,48000,69000,90000,TrueAccord,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,3.4,178.6,67.2,631
+225,Data Analyst,34000,49000,64000,DRB Systems,"Meridian, ID",Information Technology,Company - Private,201 to 500 employees,4.0,NaN,47.7,NaN
+226,Staff Data Scientist,132000,171500,211000,Western Digital,"San Jose, CA",Information Technology,Company - Public,10000+ employees,3.5,173.5,167.1,105120
+227,"Data Scientist (Actuary, FSA or ASA)",81000,107000,133000,Legal & General America,"Frederick, MD",Insurance,Company - Private,501 to 1000 employees,3.8,NaN,104.2,NaN
+228,System and Data Analyst,42000,59000,76000,Corcentric,"Cherry Hill, NJ",Information Technology,Company - Private,201 to 500 employees,3.7,NaN,57.5,NaN
+229,Data Scientist,66000,88500,111000,U.Group,"Indianapolis, IN",Information Technology,Company - Private,201 to 500 employees,3.5,90.2,86.2,53960
+230,Data Engineer 5 - Contract (Remote),74000,107000,140000,The Church of Jesus Christ of Latter-day Saints,"Riverton, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,NaN,104.2,NaN
+231,Digital Health Data Scientist,63000,86500,110000,Pfizer,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,NaN,84.3,NaN
+232,Data Scientist,63000,84000,105000,SMC 3,"Louisville, KY",Transportation & Logistics,Nonprofit Organization,51 to 200 employees,4.3,91.6,81.8,48908
+233,Data & Analytics Consultant (NYC),91000,114500,138000,Systems Evolution Inc.,"New York, NY",Business Services,Company - Private,201 to 500 employees,4.7,128.0,111.6,65566
+234,Senior Scientist - Neuroscience,100000,145000,190000,Sunovion,"Marlborough, MA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,3.5,NaN,141.3,NaN
+235,Data Engineer,62000,88000,114000,Eventbrite,"Nashville, TN",Information Technology,Company - Public,1001 to 5000 employees,4.4,100.1,85.7,49658
+236,Big Data Engineer - Chicago - Future Opportunity,71000,100000,129000,Centro,"Chicago, IL",Information Technology,Company - Private,501 to 1000 employees,4.1,100.1,97.4,61667
+237,Senior Data Analyst,43000,61500,80000,National Student Clearinghouse,"Herndon, VA",Education,Nonprofit Organization,201 to 500 employees,2.9,NaN,59.9,NaN
+238,Data Scientist,74000,96500,119000,comScore,"Portland, OR",Business Services,Company - Public,1001 to 5000 employees,2.5,116.5,94.0,51902
+239,Survey Data Analyst,55000,76000,97000,SullivanCotter,"Minneapolis, MN",Business Services,Company - Private,201 to 500 employees,4.2,105.4,74.0,35621
+240,Data Scientist,15000,15500,16000,NPD,"Port Washington, NY",Business Services,Company - Private,1001 to 5000 employees,3.9,NaN,15.1,NaN
+241,Data Scientist,61000,83500,106000,Bakery Agency,"Austin, TX",Business Services,Company - Private,1 to 50 employees,4.3,106.6,81.4,42757
+242,"Risk and Analytics IT, Data Scientist",91000,120000,149000,State of Wisconsin Investment Board,"Madison, WI",Finance,Government,51 to 200 employees,2.7,99.5,116.9,81912
+243,Data Scientist,127000,163000,199000,Genentech,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,10000+ employees,3.9,NaN,158.8,NaN
+244,Lead Health Data Analyst - Front End,74000,100000,126000,Blue Cross & Blue Shield of Rhode Island,"Providence, RI",Insurance,Nonprofit Organization,501 to 1000 employees,3.4,111.5,97.4,57305
+245,Research Scientist,33000,52500,72000,Boys Town,"Omaha, NE",Non-Profit,Nonprofit Organization,1001 to 5000 employees,3.8,92.9,51.1,16900
+247,Junior Data Analyst,37000,50000,63000,The HSC Health Care System,"Washington, DC",Health Care,Nonprofit Organization,501 to 1000 employees,3.3,120.1,48.7,4028
+248,SQL Data Engineer,67000,93000,119000,Pro-Sphere Tek,"Austin, TX",Business Services,Company - Private,201 to 500 employees,3.4,106.6,90.6,52200
+249,Data Scientist,72000,94500,117000,Ameritas Life Insurance Corp,"Cincinnati, OH",Insurance,Company - Private,1001 to 5000 employees,3.0,92.4,92.1,59174
+250,Senior Data Scientist,116000,150500,185000,Autodesk,"San Francisco, CA",Information Technology,Company - Public,5001 to 10000 employees,4.0,178.6,146.6,82127
+251,Data Scientist,78000,102000,126000,Genworth,"Raleigh, NC",Insurance,Company - Public,1001 to 5000 employees,3.7,99.7,99.4,63873
+252,"Scientist, Analytical Development",42000,62000,82000,Rubius Therapeutics,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,60.4,NaN
+253,Analytics Manager,59000,87500,116000,OneMagnify,"Dearborn, MI",Business Services,Company - Private,201 to 500 employees,4.3,NaN,85.2,NaN
+254,Clinical Data Scientist,63000,84000,105000,Pfizer,"Groton, CT",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,NaN,81.8,NaN
+255,Data Scientist,109000,143000,177000,Novetta,"Herndon, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,139.3,NaN
+256,"Sr. Data Scientist, Cyber-Security LT Contract",116000,155000,194000,"Numeric, LLC","Phila, PA",Business Services,Company - Private,1 to 50 employees,3.2,NaN,151.0,NaN
+257,Data Engineer,48000,71500,95000,IZEA,"Winter Park, FL",Business Services,Company - Public,51 to 200 employees,4.2,NaN,69.7,NaN
+258,Data Scientist,83000,108000,133000,Trace Data,"Oakland, CA",Insurance,Company - Private,51 to 200 employees,3.9,NaN,105.2,NaN
+259,Sr. Scientist - Digital & Image Analysis/Computational Pathology,105000,151500,198000,Takeda Pharmaceuticals,"San Diego, CA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,136.2,147.6,99378
+260,Digital Marketing & ECommerce Data Analyst,31000,51500,72000,Vionic Group,"San Rafael, CA",Retail,Subsidiary or Business Segment,51 to 200 employees,3.6,NaN,50.2,NaN
+261,Principal Scientist - Immunologist,98000,140000,182000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,136.4,89260
+262,Senior Data Analyst,55000,77500,100000,Dodge Data & Analytics,"Hamilton, NJ",Information Technology,Company - Private,201 to 500 employees,2.8,NaN,75.5,NaN
+263,Insurance Financial Data Analyst,45000,63500,82000,Clearwater Analytics,"Boise, ID",Finance,Company - Private,501 to 1000 employees,4.2,NaN,61.9,NaN
+264,Data Scientist,83000,109000,135000,"Tekvalley, Corp.","San Francisco, CA",Information Technology,Company - Private,1 to 50 employees,4.0,178.6,106.2,40661
+265,Data Scientist,70000,96000,122000,BWX Technologies,"Oak Ridge, TN",Aerospace & Defense,Company - Public,5001 to 10000 employees,3.5,NaN,93.5,NaN
+267,Data Engineer,70000,101000,132000,PennyMac,"Agoura Hills, CA",Finance,Company - Public,1001 to 5000 employees,3.2,NaN,98.4,NaN
+268,Senior Data Scientist,73000,98500,124000,Plymouth Rock Assurance,"Woodbridge, NJ",Insurance,Company - Private,1001 to 5000 employees,3.3,NaN,96.0,NaN
+269,Data Engineer I - Azure,54000,77500,101000,Vermeer,"Pella, IA",Manufacturing,Company - Private,1001 to 5000 employees,3.9,NaN,75.5,NaN
+270,"Sr. Scientist, Quantitative Translational Sciences",117000,161500,206000,Takeda Pharmaceuticals,"Boston, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,132.6,157.3,110712
+272,Sr. Data Scientist II,111000,147000,183000,Argo Group US,"New York, NY",Insurance,Company - Public,1001 to 5000 employees,3.4,128.0,143.2,98000
+273,Data Scientist,68000,90000,112000,L&T Infotech,"San Ramon, CA",Information Technology,Company - Public,10000+ employees,3.5,NaN,87.7,NaN
+274,Information Security Data Analyst,42000,58000,74000,OceanFirst Financial,"Red Bank, NJ",Finance,Company - Public,501 to 1000 employees,4.3,NaN,56.5,NaN
+275,Excel / VBA / SQL Data Analyst,44000,61000,78000,Associated Electric Cooperative,"Springfield, MO","Oil, Gas, Energy & Utilities",Company - Private,501 to 1000 employees,4.1,86.7,59.4,27792
+276,Machine Learning Research Scientist,81000,120000,159000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,116.9,84361
+277,Data Scientist,95000,128000,161000,Sotheby's,"New York, NY",Retail,Company - Public,1001 to 5000 employees,3.6,128.0,124.7,79012
+278,Data Scientist,75000,99500,124000,First Tech Federal Credit Union,"Hillsboro, OR",Finance,Company - Private,1001 to 5000 employees,3.5,NaN,96.9,NaN
+279,Data Scientist,72000,96000,120000,Amrock,"Detroit, MI",Real Estate,Company - Private,1001 to 5000 employees,3.6,93.2,93.5,60305
+280,Data Scientist,76000,101000,126000,Vanda Pharmaceuticals,"Washington, DC",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.3,120.1,98.4,55040
+281,Senior Data Scientist,114000,148000,182000,Zest AI,"Burbank, CA",Finance,Company - Private,51 to 200 employees,3.9,NaN,144.2,NaN
+282,"Data Scientist, Senior",108000,142000,176000,Novetta,"Fort Belvoir, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,138.3,NaN
+283,Senior Data Scientist,130000,169000,208000,CK-12 Foundation,"Palo Alto, CA",Education,Company - Private,1 to 50 employees,4.1,NaN,164.7,NaN
+284,"VP, Data Science",83000,124500,166000,PennyMac,"Phoenix, AZ",Finance,Company - Public,1001 to 5000 employees,3.2,104.3,121.3,84591
+285,Radar Data Analyst,42000,59000,76000,DECISIVE ANALYTICS Corporation,"Huntsville, AL",Aerospace & Defense,Company - Private,51 to 200 employees,4.7,91.3,57.5,24081
+286,CONSULTANT– DATA ANALYTICS GROUP,37000,52500,68000,Opinion Dynamics,"San Diego, CA",Business Services,Company - Private,51 to 200 employees,4.2,136.2,51.1,331
+287,Data Engineer,52000,75500,99000,Applied Information Sciences,"Houston, TX",Information Technology,Company - Private,501 to 1000 employees,4.6,95.8,73.6,38884
+288,Senior Data Scientist,105000,139000,173000,Swiss Re,"Armonk, NY",Insurance,Company - Public,10000+ employees,3.7,NaN,135.4,NaN
+289,"Data Engineer, Data Engineering and Artifical Intelligence",71000,102500,134000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,99.9,NaN
+290,Staff Scientist,39000,60500,82000,WK Dickson,"Columbia, SC",Business Services,Company - Private,201 to 500 employees,4.4,91.9,58.9,25289
+291,PL Actuarial-Lead Data Scientist,114000,146500,179000,The Hanover Insurance Group,"Worcester, MA",Insurance,Company - Public,5001 to 10000 employees,3.7,113.2,142.7,103150
+292,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",88000,125000,162000,Genentech,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,10000+ employees,3.9,NaN,121.8,NaN
+293,Sr. Data Analyst,60000,81000,102000,MassMutual,"Springfield, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,106.5,78.9,40230
+294,Senior Data & Machine Learning Scientist,100000,133000,166000,Tempus Labs,"Chicago, IL",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,3.0,100.1,129.6,94717
+295,Program/Data Analyst,55000,77000,99000,General Dynamics Information Technology,"Washington, DC",Information Technology,Subsidiary or Business Segment,10000+ employees,3.4,120.1,75.0,31023
+296,Data Engineer,67000,92000,117000,ManTech,"Herndon, VA",Business Services,Company - Public,5001 to 10000 employees,4.1,NaN,89.6,NaN
+297,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,92000,121000,150000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,117.9,NaN
+298,"Principal Data Engineer, Data Platform & Insights",116000,162500,209000,Autodesk,"San Francisco, CA",Information Technology,Company - Public,5001 to 10000 employees,4.0,178.6,158.3,94136
+299,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,38000,60000,82000,Southwest Research Institute,"San Antonio, TX",Business Services,Nonprofit Organization,1001 to 5000 employees,3.9,92.7,58.5,24572
+301,Big Data Engineer,62000,90500,119000,SpringML,"Indianapolis, IN",Information Technology,Company - Private,1 to 50 employees,4.4,90.2,88.2,56013
+302,Data Scientist / Machine Learning Expert,86000,114500,143000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,111.6,NaN
+303,Data Scientist,93000,121000,149000,Juniper Networks,"Sunnyvale, CA",Telecommunications,Company - Public,5001 to 10000 employees,3.8,NaN,117.9,NaN
+304,Senior Data Scientist,84000,110000,136000,The Integer Group,"Dallas, TX",Business Services,Subsidiary or Business Segment,501 to 1000 employees,2.2,98.5,107.2,72338
+305,PV Scientist,60000,91500,123000,Karyopharm Therapeutics Inc.,"Newton, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.9,NaN,89.1,NaN
+306,Clinical Data Analyst,52000,70500,89000,ManTech,"Portsmouth, VA",Business Services,Company - Public,5001 to 10000 employees,4.1,NaN,68.7,NaN
+307,Data Engineer,48000,70500,93000,P2 Energy Solutions,"Lafayette, LA",Information Technology,Company - Private,501 to 1000 employees,3.7,89.6,68.7,36227
+308,Computational Chemist/Data Scientist,56000,76500,97000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,74.5,NaN
+309,Data Engineer,65000,92000,119000,MassMutual,"Springfield, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,106.5,89.6,51212
+310,Principal Data Scientist (Computational Chemistry),108000,140500,173000,Recursion Pharmaceuticals,"Salt Lake City, UT",Biotech & Pharmaceuticals,Company - Private,51 to 200 employees,4.7,105.9,136.9,99991
+311,Product Engineer – Data Science,63000,82000,101000,Esri,"Arlington, VA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,79.9,NaN
+312,"Principal Scientist, Chemistry & Immunology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+313,"Scientist/Senior Scientist, Autoimmune",90000,134500,179000,Rubius Therapeutics,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,131.0,NaN
+314,Data Scientist,127000,164500,202000,Samba TV,"San Francisco, CA",Business Services,Company - Private,201 to 500 employees,3.3,178.6,160.3,96189
+315,Market Data Analyst,31000,44000,57000,SV Microwave,"West Palm Beach, FL",Telecommunications,Company - Public,201 to 500 employees,3.4,NaN,42.9,NaN
+316,Software Engineer - Data Visualization,60000,93500,127000,ClearEdge,"Annapolis Junction, MD",Information Technology,Company - Private,51 to 200 employees,4.0,NaN,91.1,NaN
+317,Data Engineer,75000,109000,143000,SpringML,"Herndon, VA",Information Technology,Company - Private,1 to 50 employees,4.4,NaN,106.2,NaN
+318,Staff Data Engineer,105000,149500,194000,Sumo Logic,"Austin, TX",Information Technology,Company - Private,501 to 1000 employees,3.8,106.6,145.7,108755
+319,Associate Data Engineer,45000,65500,86000,EAB,"Washington, DC",Business Services,Company - Private,1001 to 5000 employees,3.5,120.1,63.8,19527
+320,Senior Data Scientist,95000,124500,154000,Brighthouse Financial,"Charlotte, NC",Insurance,Company - Public,1001 to 5000 employees,3.5,97.9,121.3,87040
+321,Staff BI and Data Engineer,80000,114000,148000,Affinity Solutions,"San Jose, CA",Business Services,Company - Private,51 to 200 employees,2.9,173.5,111.1,47642
+322,Marketing Data Analyst,36000,49000,62000,Citadel Federal Credit Union,"Exton, PA",Finance,Nonprofit Organization,501 to 1000 employees,3.9,NaN,47.7,NaN
+323,"Principal Scientist, Hematology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+324,Data Analyst,50000,71000,92000,CALIBRE Systems,"Alexandria, VA",Information Technology,Company - Private,501 to 1000 employees,3.7,NaN,69.2,NaN
+325,"Director - Data, Privacy and AI Governance",67000,101000,135000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,98.4,50257
+326,Data Scientist,82000,107000,132000,Esri,"Redlands, CA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,104.2,NaN
+327,Data Scientist,85000,112500,140000,New England Biolabs,"Ipswich, MA",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,4.7,NaN,109.6,NaN
+328,Staff Machine Learning Engineer,138000,181000,224000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,176.3,112611
+329,Information Security Data Analyst,42000,61000,80000,Motorola Solutions,"Chicago, IL",Information Technology,Company - Public,10000+ employees,3.7,100.1,59.4,22664
+330,Lead Data Engineer,190000,205000,220000,Credit Sesame,"Mountain View, CA",Information Technology,Company - Private,51 to 200 employees,4.1,NaN,199.7,NaN
+331,Scientist Manufacturing - Kentucky BioProcessing,68000,103500,139000,Reynolds American,"Owensboro, KY",Manufacturing,Company - Private,5001 to 10000 employees,3.1,86.6,100.8,70323
+332,Data Analytics Project Manager,34000,63000,92000,MassMutual,"Springfield, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,106.5,61.4,22268
+333,Consultant - Analytics Consulting,54000,62500,71000,Infosys,"Hartford, CT",Information Technology,Company - Public,10000+ employees,3.0,104.8,60.9,22405
+334,Data Engineer,65000,94500,124000,Alignment Healthcare,"Orange, CA",Health Care,Company - Private,501 to 1000 employees,3.5,NaN,92.1,NaN
+335,Marketing Data Analyst,35000,48500,62000,San Manuel Casino,"Highland, CA","Arts, Entertainment & Recreation",Company - Private,1001 to 5000 employees,3.6,NaN,47.3,NaN
+336,Senior Scientist (Neuroscience),109000,154500,200000,Sunovion,"Marlborough, MA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,3.5,NaN,150.5,NaN
+338,Machine Learning Engineer - Regulatory,61000,87000,113000,Cboe Global Markets,"Lenexa, KS",Finance,Company - Public,501 to 1000 employees,3.7,NaN,84.8,NaN
+339,R&D Specialist/ Food Scientist,39000,52500,66000,Teasdale Latin Foods,"Hoopeston, IL",Manufacturing,Company - Private,501 to 1000 employees,2.4,NaN,51.1,NaN
+340,Data Engineer,43000,64500,86000,Guidepoint,"New York, NY",Business Services,Company - Private,501 to 1000 employees,3.2,128.0,62.8,15477
+341,"Scientist, Bacteriology",74000,111500,149000,Cerus Corporation,"Concord, CA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.1,NaN,108.6,NaN
+342,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",113000,154500,196000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,150.5,NaN
+343,Senior Research Scientist-Machine Learning,81000,124000,167000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,120.8,88364
+344,Senior Data Scientist,97000,128500,160000,Maven Wave Partners,"Chicago, IL",Business Services,Company - Private,201 to 500 employees,4.4,100.1,125.2,90201
+346,Analytics Manager - Data Mart,42000,64000,86000,Central California Alliance for Health,"Scotts Valley, CA",Health Care,Nonprofit Organization,501 to 1000 employees,3.5,NaN,62.4,NaN
+347,Sr. Data Engineer - Contract-to-Hire (Java),69000,98000,127000,Pilot Flying J Travel Centers LLC,"Knoxville, TN",Retail,Company - Private,10000+ employees,3.0,91.6,95.5,62970
+348,Data Scientist - Algorithms & Inference,110000,142500,175000,Nuna,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.2,178.6,138.8,74121
+349,Senior Data Scientist - R&D Oncology,102000,137000,172000,AstraZeneca,"New York, NY",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,128.0,133.5,88044
+350,Data Engineer,74000,99000,124000,Pinnacol Assurance,"Denver, CO",Insurance,Nonprofit Organization,501 to 1000 employees,4.0,112.1,96.5,56151
+351,Food Scientist - Developer,40000,54000,68000,Palermo's Pizza,"Milwaukee, WI",Manufacturing,Company - Private,501 to 1000 employees,3.3,93.8,52.6,18095
+352,Senior Data Scientist,108000,139500,171000,MathWorks,"Natick, MA",Information Technology,Company - Private,1001 to 5000 employees,4.4,NaN,135.9,NaN
+353,Data Engineer,76000,109000,142000,MetroStar Systems,"Rockville, MD",Information Technology,Company - Private,201 to 500 employees,3.4,NaN,106.2,NaN
+354,"Director II, Data Science - GRM Actuarial",202000,254000,306000,Liberty Mutual Insurance,"Chicago, IL",Insurance,Company - Private,10000+ employees,3.3,100.1,247.5,215730
+355,"Scientist, Molecular/Cellular Biologist",49000,73000,97000,Audentes Therapeutics,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,201 to 500 employees,2.9,NaN,71.1,NaN
+356,Staff Scientist-Downstream Process Development,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+358,Scientist - Analytical Services,65000,99500,134000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,96.9,64560
+359,Associate Data Analyst- Graduate Development Program,32000,45500,59000,National Interstate,"Richfield, OH",Insurance,Company - Private,501 to 1000 employees,3.3,NaN,44.3,NaN
+360,Sr. Data Engineer,87000,122500,158000,Moser Consulting,"Indianapolis, IN",Business Services,Company - Private,51 to 200 employees,4.5,90.2,119.3,87934
+361,Senior Insurance Data Scientist,107000,140000,173000,TransUnion,"Chicago, IL",Finance,Company - Public,5001 to 10000 employees,3.9,100.1,136.4,101697
+362,Senior Data Science Systems Engineer,56000,77500,99000,MITRE,"Hampton, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,75.5,NaN
+364,Senior Scientist - Regulatory Submissions,80000,117500,155000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,114.5,82624
+365,Scientist - Biomarker and Flow Cytometry,43000,70500,98000,Crown Bioscience,"San Diego, CA",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,2.4,136.2,68.7,18395
+366,Revenue Analytics Manager,45000,61500,78000,HOVER,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.8,178.6,59.9,-6862
+367,"Associate Scientist, LC/MS Biologics",44000,70000,96000,Q2 Solutions,"Ithaca, NY",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,101.7,68.2,31084
+368,Sr. Scientist Method Development,50000,80000,110000,Q2 Solutions,"Marietta, GA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,NaN,77.9,NaN
+369,IT - Data Engineer II,61000,90000,119000,Arbella Insurance,"Quincy, MA",Insurance,Company - Private,1001 to 5000 employees,3.4,NaN,87.7,NaN
+371,"Project Scientist - Auton Lab, Robotics Institute",56000,73500,91000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,71.6,37865
+372,Data Scientist,68000,91000,114000,Zimmerman Advertising,"Fort Lauderdale, FL",Business Services,Subsidiary or Business Segment,501 to 1000 employees,3.8,NaN,88.7,NaN
+373,Data Scientist,150000,155000,160000,BPA Services,"Washington, DC",Information Technology,Company - Private,Unknown,5.0,120.1,151.0,109029
+374,"Enterprise Architect, Data",101000,129500,158000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,126.2,78791
+375,"Senior Manager, Epidemiologic Data Scientist",125000,167500,210000,Pfizer,"New York, NY",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,128.0,163.2,118528
+376,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,43000,60000,77000,Associated Banc-Corp,"Green Bay, WI",Finance,Company - Public,1001 to 5000 employees,3.8,91.4,58.5,25069
+377,Lead Data Scientist,139000,180000,221000,Zest AI,"Burbank, CA",Finance,Company - Private,51 to 200 employees,3.9,NaN,175.4,NaN
+378,"Marketing Data Analyst, May 2020 Undergrad",44000,65000,86000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,63.3,15991
+379,Senior Data Engineer,78000,112500,147000,Genesys,"Durham, NC",Information Technology,Company - Private,5001 to 10000 employees,4.3,99.8,109.6,74304
+380,Senior Data Analyst,65000,87500,110000,Moda Operandi,"New York, NY",Retail,Company - Private,201 to 500 employees,1.9,128.0,85.2,38469
+381,Data Modeler - Data Solutions Engineer,37000,51500,66000,Liberty Mutual Insurance,"Indianapolis, IN",Insurance,Company - Private,10000+ employees,3.3,90.2,50.2,17009
+382,Associate Environmental Scientist - Wildlife Biologist,38000,51000,64000,QK,"Clovis, CA",Business Services,Company - Private,51 to 200 employees,4.7,NaN,49.7,NaN
+383,"Associate, Data Science, Internal Audit",43000,62500,82000,Santander,"Boston, MA",Finance,Company - Private,10000+ employees,3.1,132.6,60.9,11767
+384,Sr Data Engineer (Sr BI Developer),90000,100000,110000,Tivity Health,"Chandler, AZ",Health Care,Company - Public,501 to 1000 employees,3.4,NaN,97.4,NaN
+385,Data Engineer,61000,85000,109000,BRMi,"Chantilly, VA",Information Technology,Company - Private,51 to 200 employees,4.4,NaN,82.8,NaN
+386,Senior LiDAR Data Scientist,93000,122000,151000,Luminar Technologies,"Orlando, FL",Information Technology,Company - Private,201 to 500 employees,3.9,101.4,118.9,83237
+387,Salesforce Analytics Consultant,52000,66500,81000,"Emtec, Inc.","Chicago, IL",Information Technology,Company - Private,501 to 1000 employees,3.9,100.1,64.8,28206
+388,"Technology-Minded, Data Professional Opportunities",40000,70500,101000,Veterans United Home Loans,"Columbia, MO",Finance,Company - Private,1001 to 5000 employees,4.7,89.8,68.7,36151
+389,Senior Data Engineer,97000,138500,180000,Praetorian,"Austin, TX",Business Services,Company - Private,51 to 200 employees,4.7,106.6,134.9,97670
+390,Managing Data Scientist/ML Engineer,81000,107500,134000,PA Consulting,"Boston, MA",Business Services,Company - Private,1001 to 5000 employees,3.4,132.6,104.7,56723
+391,"Scientist, Pharmacometrics",84000,120500,157000,Agios Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,501 to 1000 employees,3.8,NaN,117.4,NaN
+392,Staff Scientist- Upstream PD,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+393,Scientist Manufacturing Pharma - Kentucky BioProcessing,68000,103500,139000,Reynolds American,"Owensboro, KY",Manufacturing,Company - Private,5001 to 10000 employees,3.1,86.6,100.8,70323
+394,Sr. Data Engineer,75000,107500,140000,Echo Global Logistics,"Chicago, IL",Transportation & Logistics,Company - Public,1001 to 5000 employees,3.4,100.1,104.7,69160
+395,Lead Big Data Engineer,121000,162000,203000,Glassdoor,"San Francisco, CA",Information Technology,Company - Private,1001 to 5000 employees,4.0,178.6,157.8,93623
+396,Product Engineer – Spatial Data Science and Statistical Analysis,52000,68500,85000,Esri,"Redlands, CA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,66.7,NaN
+397,Sr Software Engineer (Data Scientist),81000,110500,140000,Assurant,"Westlake, OH",Insurance,Company - Public,10000+ employees,3.4,NaN,107.7,NaN
+398,College Hire - Data Scientist - Open to December 2019 Graduates,63000,81000,99000,Caterpillar,"Peoria, IL",Manufacturing,Company - Public,10000+ employees,3.7,86.7,78.9,47806
+399,Senior Data Scientist,110000,130000,150000,Equity Residential,"Chicago, IL",Real Estate,Company - Public,1001 to 5000 employees,4.3,100.1,126.7,91741
+400,Sr. Data Engineer (ETL Developer),83000,115500,148000,F&G,"Des Moines, IA",Insurance,Subsidiary or Business Segment,201 to 500 employees,3.7,91.7,112.5,80380
+401,Senior Data Scientist Artificial Intelligence,60000,80500,101000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,78.4,NaN
+402,Analytics - Business Assurance Data Analyst,31000,43000,55000,GreatAmerica Financial Services,"Cedar Rapids, IA",Finance,Company - Private,501 to 1000 employees,4.6,88.1,41.9,9294
+403,"Associate Director/Director, Safety Scientist",102000,140000,178000,Acceleron Pharma,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,136.4,NaN
+405,Data Analyst Senior,48000,66500,85000,AmeriHealth Caritas,"Philadelphia, PA",Insurance,Company - Private,5001 to 10000 employees,3.0,103.4,64.8,26944
+406,Lead Data Engineer (Python),66000,94500,123000,Strategic Employment Partners,"San Francisco, CA",Business Services,Company - Private,51 to 200 employees,4.7,178.6,92.1,26188
+407,Senior Data Scientist 4 Artificial Intelligence,92000,119000,146000,PNNL,"Seattle, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,124.6,115.9,71280
+410,"Director II, Data Science - GRS Predictive Analytics",150000,194500,239000,Liberty Mutual Insurance,"Chicago, IL",Insurance,Company - Private,10000+ employees,3.3,100.1,189.5,156199
+411,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,52000,71500,91000,Southwest Research Institute,"San Antonio, TX",Business Services,Nonprofit Organization,1001 to 5000 employees,3.9,92.7,69.7,36068
+412,Geospatial Software Developer and Data Scientist,82000,105500,129000,Applied Research Laboratories,"Austin, TX",Education,College / University,501 to 1000 employees,3.7,106.6,102.8,64722
+413,Senior Scientist - Toxicologist - Product Integrity (Stewardship),47000,74000,101000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,72.1,39105
+414,Systems Engineer II - Data Analyst,49000,62500,76000,Raytheon,"Huntsville, AL",Aerospace & Defense,Company - Public,10000+ employees,3.7,91.3,60.9,27571
+415,Senior Research Analytical Scientist-Non-Targeted Analysis,43000,65500,88000,RTI International,"Durham, NC",Business Services,Nonprofit Organization,1001 to 5000 employees,4.3,99.8,63.8,27295
+416,Director Data Science,124000,161500,199000,TRANZACT,"Fort Lee, NJ",Business Services,Company - Private,1001 to 5000 employees,3.6,NaN,157.3,NaN
+417,Sr Data Analyst - IT,52000,72500,93000,United BioSource,"Blue Bell, PA",Biotech & Pharmaceuticals,Other Organization,1001 to 5000 employees,2.1,NaN,70.6,NaN
+418,Senior Data Engineer,97000,139000,181000,Figure Eight,"San Francisco, CA",Information Technology,Company - Public,51 to 200 employees,3.9,178.6,135.4,70632
+419,Senior Data Engineer,100000,136500,173000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,133.0,68168
+420,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,53000,74500,96000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,72.6,25536
+421,Senior Scientist - Biostatistician,65000,80500,96000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,78.4,45571
+422,Data Scientist,56000,75500,95000,Sartorius,"Albuquerque, NM",Biotech & Pharmaceuticals,Company - Public,5001 to 10000 employees,3.5,92.9,73.6,39994
+423,Data Scientist,111000,143500,176000,1904labs,"Saint Louis, MO",Information Technology,Company - Private,51 to 200 employees,4.7,NaN,139.8,NaN
+424,Data Scientist,75000,101000,127000,Royce Geospatial,"Springfield, VA",Aerospace & Defense,Company - Private,51 to 200 employees,5.0,NaN,98.4,NaN
+425,Data Engineer,65000,92000,119000,MassMutual,"Springfield, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,106.5,89.6,51212
+426,Computational Chemist/Data Scientist,56000,76500,97000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,74.5,NaN
+427,Principal Data Scientist (Computational Chemistry),108000,140500,173000,Recursion Pharmaceuticals,"Salt Lake City, UT",Biotech & Pharmaceuticals,Company - Private,51 to 200 employees,4.7,105.9,136.9,99991
+428,Data Scientist,94000,116500,139000,Citi,"Jersey City, NJ",Finance,Company - Public,10000+ employees,3.6,NaN,113.5,NaN
+429,Principal Machine Learning Scientist,176000,232500,289000,Sage Intacct,"San Francisco, CA",Information Technology,Subsidiary or Business Segment,501 to 1000 employees,4.7,178.6,226.5,164137
+430,Data Scientist,92000,120500,149000,Scale AI,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,3.5,178.6,117.4,52156
+431,Product Engineer – Data Science,63000,82000,101000,Esri,"Arlington, VA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,79.9,NaN
+432,"Principal Scientist, Chemistry & Immunology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+433,Data Scientist,118000,153000,188000,Change Healthcare,"Emeryville, CA",Information Technology,Company - Public,10000+ employees,2.7,NaN,149.1,NaN
+434,Data Scientist,108000,127000,146000,MZ,"Palo Alto, CA",Information Technology,Company - Private,501 to 1000 employees,3.4,NaN,123.7,NaN
+435,Data Scientist,65000,85500,106000,HG Insights,"Santa Barbara, CA",Information Technology,Company - Private,51 to 200 employees,4.7,NaN,83.3,NaN
+436,Data Scientist,55000,76500,98000,"1-800-FLOWERS.COM, Inc.","Carle Place, NY",Business Services,Company - Public,1001 to 5000 employees,2.8,NaN,74.5,NaN
+437,Data Scientist,94000,128000,162000,CBS Interactive,"New York, NY",Media,Subsidiary or Business Segment,1001 to 5000 employees,3.5,128.0,124.7,79012
+438,Data Engineer,63000,91500,120000,"Numeric, LLC","King of Prussia, PA",Business Services,Company - Private,1 to 50 employees,3.2,NaN,89.1,NaN
+439,"Scientist/Senior Scientist, Autoimmune",90000,134500,179000,Rubius Therapeutics,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,131.0,NaN
+440,Data Scientist,127000,164500,202000,Samba TV,"San Francisco, CA",Business Services,Company - Private,201 to 500 employees,3.3,178.6,160.3,96189
+441,Software Engineer - Data Visualization,60000,93500,127000,ClearEdge,"Annapolis Junction, MD",Information Technology,Company - Private,51 to 200 employees,4.0,NaN,91.1,NaN
+442,Market Data Analyst,31000,44000,57000,SV Microwave,"West Palm Beach, FL",Telecommunications,Company - Public,201 to 500 employees,3.4,NaN,42.9,NaN
+443,Staff Data Engineer,105000,149500,194000,Sumo Logic,"Austin, TX",Information Technology,Company - Private,501 to 1000 employees,3.8,106.6,145.7,108755
+444,Associate Data Engineer,45000,65500,86000,EAB,"Washington, DC",Business Services,Company - Private,1001 to 5000 employees,3.5,120.1,63.8,19527
+445,Data Engineer,75000,109000,143000,SpringML,"Herndon, VA",Information Technology,Company - Private,1 to 50 employees,4.4,NaN,106.2,NaN
+446,Staff Data Engineer,126000,177000,228000,Samsung Research America,"Mountain View, CA",Information Technology,Subsidiary or Business Segment,1001 to 5000 employees,3.7,NaN,172.4,NaN
+447,Data Scientist,80000,107000,134000,Systems & Technology Research,"Arlington, VA",Aerospace & Defense,Company - Private,201 to 500 employees,4.7,NaN,104.2,NaN
+448,Data Scientist,120000,154500,189000,Netskope,"Santa Clara, CA",Information Technology,Company - Private,501 to 1000 employees,4.1,NaN,150.5,NaN
+449,Data Scientist,85000,113500,142000,Lorven Technologies Inc,"Santa Clara, CA",Accounting & Legal,Company - Private,1 to 50 employees,4.0,NaN,110.6,NaN
+450,Senior Data Scientist,95000,124500,154000,Brighthouse Financial,"Charlotte, NC",Insurance,Company - Public,1001 to 5000 employees,3.5,97.9,121.3,87040
+451,Data Scientist,111000,143500,176000,CareDx,"Brisbane, CA",Biotech & Pharmaceuticals,Company - Private,1 to 50 employees,2.5,NaN,139.8,NaN
+452,Data Scientist,87000,113500,140000,Serigor Inc.,"San Francisco, CA",Information Technology,Company - Private,1 to 50 employees,3.9,178.6,110.6,45177
+453,Data Scientist,76000,101500,127000,Leidos,"Springfield, VA",Aerospace & Defense,Company - Public,10000+ employees,3.4,NaN,98.9,NaN
+454,"Data Analyst, Performance Partnership",54000,73000,92000,Beckman Coulter Diagnostics,"New York, NY",Manufacturing,Subsidiary or Business Segment,10000+ employees,3.6,128.0,71.1,23997
+455,Data Scientist,61000,80500,100000,IHS Markit,"New York, NY",Business Services,Company - Public,10000+ employees,3.5,128.0,78.4,31489
+457,Staff BI and Data Engineer,80000,114000,148000,Affinity Solutions,"San Jose, CA",Business Services,Company - Private,51 to 200 employees,2.9,173.5,111.1,47642
+458,Data Scientist,108000,139500,171000,e-IT Professionals Corp.,"Foster City, CA",Consumer Services,Company - Private,51 to 200 employees,3.5,NaN,135.9,NaN
+459,Data Scientist,112000,145500,179000,TechProjects,"New York, NY",Information Technology,Company - Private,1 to 50 employees,4.8,128.0,141.8,96563
+460,Data Scientist,63000,87000,111000,Biz2Credit Inc,"New York, NY",Finance,Company - Private,201 to 500 employees,4.0,128.0,84.8,38058
+461,Data Scientist,75000,100500,126000,PeoplesBank,"Holyoke, MA",Finance,Company - Private,201 to 500 employees,4.2,NaN,97.9,NaN
+462,Data Scientist Manager,110000,147000,184000,Capgemini,"New York, NY",Information Technology,Company - Public,10000+ employees,3.8,128.0,143.2,98000
+463,Data Engineer,76000,110500,145000,GNY Insurance Companies,"New York, NY",Insurance,Company - Private,201 to 500 employees,3.7,128.0,107.7,61563
+464,Marketing Data Analyst,36000,49000,62000,Citadel Federal Credit Union,"Exton, PA",Finance,Nonprofit Organization,501 to 1000 employees,3.9,NaN,47.7,NaN
+465,Data Scientist,70000,94000,118000,"Conch Technologies, Inc","Waltham, MA",Business Services,Company - Private,51 to 200 employees,4.6,NaN,91.6,NaN
+466,Senior Data Scientist,94000,123500,153000,Medidata Solutions,"New York, NY",Information Technology,Company - Public,1001 to 5000 employees,4.3,128.0,120.3,74495
+467,"Principal Scientist, Hematology",54000,84500,115000,Rochester Regional Health,"Rochester, NY",Health Care,Hospital,10000+ employees,3.3,96.6,82.3,47508
+468,Data Analyst,50000,71000,92000,CALIBRE Systems,"Alexandria, VA",Information Technology,Company - Private,501 to 1000 employees,3.7,NaN,69.2,NaN
+469,Software Data Engineer - College,49000,73000,97000,HP Inc.,"Corvallis, OR",Information Technology,Company - Public,10000+ employees,4.0,110.6,71.1,30655
+470,"Director - Data, Privacy and AI Governance",67000,101000,135000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,98.4,50257
+471,Staff Machine Learning Engineer,138000,181000,224000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,176.3,112611
+472,Data Scientist,80000,109500,139000,Northrop Grumman,"San Diego, CA",Aerospace & Defense,Company - Public,10000+ employees,3.7,136.2,106.7,57399
+473,Lead Data Scientist,158000,184500,211000,Visa Inc.,"Bellevue, WA",Information Technology,Company - Public,10000+ employees,3.7,NaN,179.8,NaN
+474,Senior Data Scientist - Algorithms,150000,165000,180000,Quartet Health,"New York, NY",Information Technology,Company - Private,201 to 500 employees,3.9,128.0,160.8,116065
+475,Information Security Data Analyst,42000,61000,80000,Motorola Solutions,"Chicago, IL",Information Technology,Company - Public,10000+ employees,3.7,100.1,59.4,22664
+476,Lead Data Engineer,190000,205000,220000,Credit Sesame,"Mountain View, CA",Information Technology,Company - Private,51 to 200 employees,4.1,NaN,199.7,NaN
+477,Data Analyst,42000,59500,77000,Success Academy Charter Schools,"New York, NY",Education,School / School District,1001 to 5000 employees,3.1,128.0,58.0,10551
+478,Scientist Manufacturing - Kentucky BioProcessing,68000,103500,139000,Reynolds American,"Owensboro, KY",Manufacturing,Company - Private,5001 to 10000 employees,3.1,86.6,100.8,70323
+479,Consultant - Analytics Consulting,54000,62500,71000,Infosys,"Hartford, CT",Information Technology,Company - Public,10000+ employees,3.0,104.8,60.9,22405
+480,Data Analytics Project Manager,34000,63000,92000,MassMutual,"Springfield, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,106.5,61.4,22268
+481,Data Analyst,47000,66000,85000,AXION Healthcare Solutions,"New York, NY",Health Care,Company - Private,1 to 50 employees,3.6,128.0,64.3,17017
+482,Data Engineer,65000,94500,124000,Alignment Healthcare,"Orange, CA",Health Care,Company - Private,501 to 1000 employees,3.5,NaN,92.1,NaN
+483,Data Scientist,56000,75500,95000,ExecOnline,"New York, NY",Education,Company - Private,51 to 200 employees,4.2,128.0,73.6,26563
+484,Machine Learning Engineer,62000,87000,112000,Mteq,"Fort Belvoir, VA",Aerospace & Defense,Company - Public,501 to 1000 employees,4.0,NaN,84.8,NaN
+485,Senior Data Scientist Oncology,107000,140000,173000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,136.4,NaN
+486,Data Scientist,64000,86000,108000,Brillient,"Silver Spring, MD",Information Technology,Company - Private,201 to 500 employees,3.7,NaN,83.8,NaN
+487,Senior Data Scientist,89000,116500,144000,Entefy,"Palo Alto, CA",Information Technology,Company - Private,1 to 50 employees,4.4,NaN,113.5,NaN
+488,Senior Scientist (Neuroscience),109000,154500,200000,Sunovion,"Marlborough, MA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,3.5,NaN,150.5,NaN
+489,Machine Learning Engineer - Regulatory,61000,87000,113000,Cboe Global Markets,"Lenexa, KS",Finance,Company - Public,501 to 1000 employees,3.7,NaN,84.8,NaN
+490,Marketing Data Analyst,35000,48500,62000,San Manuel Casino,"Highland, CA","Arts, Entertainment & Recreation",Company - Private,1001 to 5000 employees,3.6,NaN,47.3,NaN
+491,Data Engineer,55000,80000,105000,Trace3,"Houston, TX",Information Technology,Company - Private,501 to 1000 employees,3.4,95.8,77.9,43298
+493,R&D Specialist/ Food Scientist,39000,52500,66000,Teasdale Latin Foods,"Hoopeston, IL",Manufacturing,Company - Private,501 to 1000 employees,2.4,NaN,51.1,NaN
+494,Principal Data Scientist,135000,173000,211000,Northrop Grumman,"San Jose, CA",Aerospace & Defense,Company - Public,10000+ employees,3.7,173.5,168.6,106660
+495,Data Engineer,57000,68500,80000,Saama Technologies Inc,"Phoenix, AZ",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,3.5,104.3,66.7,28549
+496,Data Scientist - Alpha Insights,129000,172000,215000,Two Sigma,"New York, NY",Finance,Company - Private,1001 to 5000 employees,4.4,128.0,167.6,123044
+497,"Data Scientist, Office of Data Science",86000,114500,143000,Liberty Mutual Insurance,"Boston, MA",Insurance,Company - Private,10000+ employees,3.3,132.6,111.6,63806
+498,"Associate Principal Scientist, Pharmacogenomics",63000,95000,127000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,92.6,NaN
+499,Data Scientist - Systems Engineering,50000,69500,89000,MITRE,"Bedford, MA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,67.7,NaN
+500,Data Engineer,43000,64500,86000,Guidepoint,"New York, NY",Business Services,Company - Private,501 to 1000 employees,3.2,128.0,62.8,15477
+501,"Scientist, Bacteriology",74000,111500,149000,Cerus Corporation,"Concord, CA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.1,NaN,108.6,NaN
+502,Data Scientist,71000,97500,124000,Strategic Financial Solutions,"New York, NY",Consumer Services,Company - Private,501 to 1000 employees,4.0,128.0,95.0,48528
+503,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",113000,154500,196000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,150.5,NaN
+504,Senior Research Scientist-Machine Learning,81000,124000,167000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,120.8,88364
+505,Data Scientist,69000,95000,121000,"Remedy BPCI Partners, LLC.","New York, NY",Health Care,Company - Private,201 to 500 employees,3.4,128.0,92.6,46064
+506,Senior Data Scientist,97000,128500,160000,Maven Wave Partners,"Chicago, IL",Business Services,Company - Private,201 to 500 employees,4.4,100.1,125.2,90201
+507,Principal Data Scientist,150000,194000,238000,The Climate Corporation,"San Francisco, CA",Information Technology,Subsidiary or Business Segment,501 to 1000 employees,3.2,178.6,189.0,125647
+508,Data Scientist,77000,104500,132000,Crossix Solutions,"New York, NY",Business Services,Company - Public,201 to 500 employees,3.5,128.0,101.8,55507
+510,Data Engineer - Consultant (Charlotte Based),59000,85500,112000,Clarity Insights,"Charlotte, NC",Information Technology,Company - Private,201 to 500 employees,4.2,97.9,83.3,48037
+511,"Data Analyst 1, full-time contract worker for up to 12 months",35000,50000,65000,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,105.9,48.7,9462
+512,Data Engineer,79000,113000,147000,NCSOFT,"Aliso Viejo, CA",Media,Company - Public,1001 to 5000 employees,3.1,NaN,110.1,NaN
+513,"Scientist, Immuno-Oncology",62000,90500,119000,GSK,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,88.2,NaN
+514,Senior Data Scientist,119000,153000,187000,Factual,"Los Angeles, CA",Information Technology,Company - Private,51 to 200 employees,4.3,140.6,149.1,99234
+515,Products Data Analyst II,90000,123500,157000,TriNet,"Dublin, CA",Business Services,Company - Public,1001 to 5000 employees,3.3,NaN,120.3,NaN
+516,Lead Data Analyst,32000,47000,62000,Signpost,"New York, NY",Information Technology,Company - Private,201 to 500 employees,3.9,128.0,45.8,-1971
+517,Analytics Manager - Data Mart,42000,64000,86000,Central California Alliance for Health,"Scotts Valley, CA",Health Care,Nonprofit Organization,501 to 1000 employees,3.5,NaN,62.4,NaN
+518,Data Science Engineer - Mobile,116000,162000,208000,Adobe,"San Jose, CA",Information Technology,Company - Public,10000+ employees,4.0,173.5,157.8,95574
+519,Senior Data Scientist - R&D Oncology,102000,137000,172000,AstraZeneca,"New York, NY",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,128.0,133.5,88044
+520,Sr. Data Engineer - Contract-to-Hire (Java),69000,98000,127000,Pilot Flying J Travel Centers LLC,"Knoxville, TN",Retail,Company - Private,10000+ employees,3.0,91.6,95.5,62970
+521,Data Scientist,86000,115000,144000,Swiss Re,"Armonk, NY",Insurance,Company - Public,10000+ employees,3.7,NaN,112.0,NaN
+522,Senior Data Scientist,102000,133500,165000,Sartorius,"Arvada, CO",Biotech & Pharmaceuticals,Company - Public,5001 to 10000 employees,3.5,NaN,130.1,NaN
+523,Data Engineer,74000,99000,124000,Pinnacol Assurance,"Denver, CO",Insurance,Nonprofit Organization,501 to 1000 employees,4.0,112.1,96.5,56151
+524,Food Scientist - Developer,40000,54000,68000,Palermo's Pizza,"Milwaukee, WI",Manufacturing,Company - Private,501 to 1000 employees,3.3,93.8,52.6,18095
+525,Senior Data Engineer,76000,109000,142000,Equian LLC,"Franklin, TN",Health Care,Company - Private,1001 to 5000 employees,3.2,NaN,106.2,NaN
+526,Data Engineer,76000,109000,142000,MetroStar Systems,"Rockville, MD",Information Technology,Company - Private,201 to 500 employees,3.4,NaN,106.2,NaN
+527,Senior Data Scientist,108000,139500,171000,MathWorks,"Natick, MA",Information Technology,Company - Private,1001 to 5000 employees,4.4,NaN,135.9,NaN
+528,"Director II, Data Science - GRM Actuarial",202000,254000,306000,Liberty Mutual Insurance,"Chicago, IL",Insurance,Company - Private,10000+ employees,3.3,100.1,247.5,215730
+529,Machine Learning Engineer,91000,125000,159000,Information Builders,"New York, NY",Information Technology,Company - Private,1001 to 5000 employees,3.2,128.0,121.8,76035
+530,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",80000,106500,133000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,103.8,NaN
+531,"Scientist, Molecular/Cellular Biologist",49000,73000,97000,Audentes Therapeutics,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,201 to 500 employees,2.9,NaN,71.1,NaN
+532,Staff Scientist-Downstream Process Development,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+534,Scientist - Analytical Services,65000,99500,134000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,96.9,64560
+535,Associate Data Analyst- Graduate Development Program,32000,45500,59000,National Interstate,"Richfield, OH",Insurance,Company - Private,501 to 1000 employees,3.3,NaN,44.3,NaN
+536,IT Associate Data Analyst,39000,54000,69000,The Hanover Insurance Group,"Worcester, MA",Insurance,Company - Public,5001 to 10000 employees,3.7,113.2,52.6,10672
+537,Sr. Data Engineer,87000,122500,158000,Moser Consulting,"Indianapolis, IN",Business Services,Company - Private,51 to 200 employees,4.5,90.2,119.3,87934
+538,Clinical Data Analyst,27000,37500,48000,Greenway Health,"Tampa, FL",Information Technology,Subsidiary or Business Segment,1001 to 5000 employees,3.0,101.4,36.5,-1338
+539,Business Data Analyst,36000,53500,71000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,52.1,4495
+540,Senior Insurance Data Scientist,107000,140000,173000,TransUnion,"Chicago, IL",Finance,Company - Public,5001 to 10000 employees,3.9,100.1,136.4,101697
+541,Senior Data Science Systems Engineer,56000,77500,99000,MITRE,"Hampton, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,75.5,NaN
+543,Senior Scientist - Regulatory Submissions,80000,117500,155000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,114.5,82624
+544,Scientist - Biomarker and Flow Cytometry,43000,70500,98000,Crown Bioscience,"San Diego, CA",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,2.4,136.2,68.7,18395
+545,"Associate Scientist, LC/MS Biologics",44000,70000,96000,Q2 Solutions,"Ithaca, NY",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,101.7,68.2,31084
+546,Revenue Analytics Manager,45000,61500,78000,HOVER,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.8,178.6,59.9,-6862
+547,Sr. Scientist Method Development,50000,80000,110000,Q2 Solutions,"Marietta, GA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,NaN,77.9,NaN
+548,Data Scientist,60000,79500,99000,Oversight Systems,"Atlanta, GA",Information Technology,Company - Private,51 to 200 employees,4.7,100.3,77.5,41165
+549,Data Scientist - Sales,130000,168000,206000,Confluent,"Mountain View, CA",Information Technology,Company - Private,501 to 1000 employees,4.7,NaN,163.7,NaN
+550,IT - Data Engineer II,61000,90000,119000,Arbella Insurance,"Quincy, MA",Insurance,Company - Private,1001 to 5000 employees,3.4,NaN,87.7,NaN
+552,Senior Data Analyst,99000,138500,178000,Life360,"San Francisco, CA",Information Technology,Company - Public,51 to 200 employees,3.9,178.6,134.9,70118
+553,"Principal, Data Science - Advanced Analytics",86000,111500,137000,IQVIA,"Plymouth Meeting, PA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.6,NaN,108.6,NaN
+554,Data Science Project Manager,37000,68500,100000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,66.7,17720
+555,"Sr Scientist, Immuno-Oncology - Oncology",58000,84500,111000,GSK,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,82.3,NaN
+556,Senior Data Engineer,72000,102500,133000,Eventbrite,"Nashville, TN",Information Technology,Company - Public,1001 to 5000 employees,4.4,100.1,99.9,64233
+557,"Project Scientist - Auton Lab, Robotics Institute",56000,73500,91000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,71.6,37865
+558,Research Scientist – Security and Privacy,61000,93500,126000,Riverside Research Institute,"Beavercreek, OH",Government,Nonprofit Organization,501 to 1000 employees,3.6,NaN,91.1,NaN
+559,Data Science Manager,95000,127500,160000,"Numeric, LLC","Allentown, PA",Business Services,Company - Private,1 to 50 employees,3.2,98.9,124.2,89634
+560,Data Analyst 2 (Missionary Department),53000,72000,91000,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,105.9,70.1,31427
+561,"Enterprise Architect, Data",101000,129500,158000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,126.2,78791
+562,Supply Chain Data Analyst,33000,47000,61000,Icon Health and Fitness,"Logan, UT",Manufacturing,Company - Private,1001 to 5000 employees,3.1,95.2,45.8,10580
+563,Data Engineer - ETL,44000,65000,86000,Shipt,"Birmingham, AL",Consumer Services,Subsidiary or Business Segment,501 to 1000 employees,3.8,90.7,63.3,30264
+564,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,43000,60000,77000,Associated Banc-Corp,"Green Bay, WI",Finance,Company - Public,1001 to 5000 employees,3.8,91.4,58.5,25069
+565,"Senior Manager, Epidemiologic Data Scientist",125000,167500,210000,Pfizer,"New York, NY",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,128.0,163.2,118528
+566,"Marketing Data Analyst, May 2020 Undergrad",44000,65000,86000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,63.3,15991
+567,Senior Data Analyst,69000,94000,119000,Novetta,"Herndon, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,91.6,NaN
+568,Senior Data Analyst,65000,87500,110000,Moda Operandi,"New York, NY",Retail,Company - Private,201 to 500 employees,1.9,128.0,85.2,38469
+569,Senior Data Engineer,67000,97000,127000,Novetta,"Reston, VA",Information Technology,Company - Private,501 to 1000 employees,4.0,NaN,94.5,NaN
+570,Senior Data Engineer,78000,112500,147000,Genesys,"Durham, NC",Information Technology,Company - Private,5001 to 10000 employees,4.3,99.8,109.6,74304
+571,Data Modeler (Analytical Systems),66000,91500,117000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,89.1,40712
+572,Data Modeler - Data Solutions Engineer,37000,51500,66000,Liberty Mutual Insurance,"Indianapolis, IN",Insurance,Company - Private,10000+ employees,3.3,90.2,50.2,17009
+573,Data Scientist in Translational Medicine,86000,114500,143000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,111.6,NaN
+574,Data Scientist,84000,115000,146000,USEReady,"New York, NY",Business Services,Company - Private,201 to 500 employees,4.3,128.0,112.0,65976
+575,Product Manager/Data Evangelist,50000,74000,98000,"Numeric, LLC","Phila, PA",Business Services,Company - Private,1 to 50 employees,3.2,NaN,72.1,NaN
+576,Associate Environmental Scientist - Wildlife Biologist,38000,51000,64000,QK,"Clovis, CA",Business Services,Company - Private,51 to 200 employees,4.7,NaN,49.7,NaN
+577,Sr Data Engineer (Sr BI Developer),90000,100000,110000,Tivity Health,"Chandler, AZ",Health Care,Company - Public,501 to 1000 employees,3.4,NaN,97.4,NaN
+578,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",92000,121000,150000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,117.9,NaN
+579,Senior Data Analyst/Scientist,90000,121500,153000,Demandbase,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,4.5,178.6,118.4,53183
+580,"Associate, Data Science, Internal Audit",43000,62500,82000,Santander,"Boston, MA",Finance,Company - Private,10000+ employees,3.1,132.6,60.9,11767
+582,Senior LiDAR Data Scientist,93000,122000,151000,Luminar Technologies,"Orlando, FL",Information Technology,Company - Private,201 to 500 employees,3.9,101.4,118.9,83237
+583,Data Engineer,61000,85000,109000,BRMi,"Chantilly, VA",Information Technology,Company - Private,51 to 200 employees,4.4,NaN,82.8,NaN
+584,Data Engineer,42000,60500,79000,IntraEdge,"Scottsdale, AZ",Information Technology,Company - Private,501 to 1000 employees,3.4,NaN,58.9,NaN
+585,Lead Data Scientist,139000,180000,221000,Zest AI,"Burbank, CA",Finance,Company - Private,51 to 200 employees,3.9,NaN,175.4,NaN
+586,"Technology-Minded, Data Professional Opportunities",40000,70500,101000,Veterans United Home Loans,"Columbia, MO",Finance,Company - Private,1001 to 5000 employees,4.7,89.8,68.7,36151
+587,Big Data Engineer,84000,118500,153000,Peraton,"Chantilly, VA",Aerospace & Defense,Company - Private,1001 to 5000 employees,3.3,NaN,115.5,NaN
+588,Salesforce Analytics Consultant,52000,66500,81000,"Emtec, Inc.","Chicago, IL",Information Technology,Company - Private,501 to 1000 employees,3.9,100.1,64.8,28206
+589,Managing Data Scientist/ML Engineer,81000,107500,134000,PA Consulting,"Boston, MA",Business Services,Company - Private,1001 to 5000 employees,3.4,132.6,104.7,56723
+590,Senior Data Engineer,97000,138500,180000,Praetorian,"Austin, TX",Business Services,Company - Private,51 to 200 employees,4.7,106.6,134.9,97670
+591,Staff Scientist- Upstream PD,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+592,Data Engineering Analyst,44000,58500,73000,COUNTRY Financial,"Bloomington, IL",Insurance,Company - Private,1001 to 5000 employees,3.8,89.0,57.0,24448
+593,Sr. Data Engineer,75000,107500,140000,Echo Global Logistics,"Chicago, IL",Transportation & Logistics,Company - Public,1001 to 5000 employees,3.4,100.1,104.7,69160
+594,"Scientist, Pharmacometrics",84000,120500,157000,Agios Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,501 to 1000 employees,3.8,NaN,117.4,NaN
+595,Manager of Data Science,40000,63500,87000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,61.9,-4809
+596,Scientist Manufacturing Pharma - Kentucky BioProcessing,68000,103500,139000,Reynolds American,"Owensboro, KY",Manufacturing,Company - Private,5001 to 10000 employees,3.1,86.6,100.8,70323
+597,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,72000,107000,142000,Mentor Graphics,"Fremont, CA",Information Technology,Company - Public,5001 to 10000 employees,4.1,NaN,104.2,NaN
+598,Data Engineer,74000,105500,137000,Maxar Technologies,"Springfield, VA",Aerospace & Defense,Company - Public,5001 to 10000 employees,3.7,NaN,102.8,NaN
+599,Data Engineer,57000,83000,109000,ICW Group,"San Diego, CA",Insurance,Company - Private,501 to 1000 employees,2.8,136.2,80.9,30917
+600,Lead Big Data Engineer,121000,162000,203000,Glassdoor,"San Francisco, CA",Information Technology,Company - Private,1001 to 5000 employees,4.0,178.6,157.8,93623
+601,Product Engineer – Spatial Data Science and Statistical Analysis,52000,68500,85000,Esri,"Redlands, CA",Information Technology,Company - Private,1001 to 5000 employees,3.5,NaN,66.7,NaN
+602,Sr Software Engineer (Data Scientist),81000,110500,140000,Assurant,"Westlake, OH",Insurance,Company - Public,10000+ employees,3.4,NaN,107.7,NaN
+603,Sr. Data Engineer (ETL Developer),83000,115500,148000,F&G,"Des Moines, IA",Insurance,Subsidiary or Business Segment,201 to 500 employees,3.7,91.7,112.5,80380
+604,Associate Research Scientist I (Protein Expression and Production),59000,87500,116000,Exelixis,"Alameda, CA",Biotech & Pharmaceuticals,Company - Public,501 to 1000 employees,3.0,NaN,85.2,NaN
+605,Senior Data Scientist Artificial Intelligence,60000,80500,101000,PNNL,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,78.4,NaN
+606,Analytics - Business Assurance Data Analyst,31000,43000,55000,GreatAmerica Financial Services,"Cedar Rapids, IA",Finance,Company - Private,501 to 1000 employees,4.6,88.1,41.9,9294
+607,"Associate Director/Director, Safety Scientist",102000,140000,178000,Acceleron Pharma,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,4.4,NaN,136.4,NaN
+608,"Director, Precision Medicine Clinical Biomarker Scientist",136000,172000,208000,Pfizer,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,4.0,NaN,167.6,NaN
+610,Data Analyst Senior,48000,66500,85000,AmeriHealth Caritas,"Philadelphia, PA",Insurance,Company - Private,5001 to 10000 employees,3.0,103.4,64.8,26944
+611,Senior Formulations Scientist II,71000,100000,129000,Exelixis,"Alameda, CA",Biotech & Pharmaceuticals,Company - Public,501 to 1000 employees,3.0,NaN,97.4,NaN
+612,Lead Data Engineer (Python),66000,94500,123000,Strategic Employment Partners,"San Francisco, CA",Business Services,Company - Private,51 to 200 employees,4.7,178.6,92.1,26188
+613,Data Science Manager,171000,221500,272000,Grand Rounds,"San Francisco, CA",Health Care,Company - Private,501 to 1000 employees,4.2,178.6,215.8,153154
+614,Senior Data Scientist 4 Artificial Intelligence,92000,119000,146000,PNNL,"Seattle, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,124.6,115.9,71280
+615,Data Engineer,65000,95500,126000,"SPINS, LLC","Chicago, IL",Business Services,Company - Private,201 to 500 employees,3.5,100.1,93.0,57151
+616,"Director II, Data Science - GRS Predictive Analytics",150000,194500,239000,Liberty Mutual Insurance,"Chicago, IL",Insurance,Company - Private,10000+ employees,3.3,100.1,189.5,156199
+619,Senior Quantitative Analyst,118000,173000,228000,DTCC,"Jersey City, NJ",Finance,Company - Private,1001 to 5000 employees,3.3,NaN,168.6,NaN
+620,Geospatial Software Developer and Data Scientist,82000,105500,129000,Applied Research Laboratories,"Austin, TX",Education,College / University,501 to 1000 employees,3.7,106.6,102.8,64722
+621,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,52000,71500,91000,Southwest Research Institute,"San Antonio, TX",Business Services,Nonprofit Organization,1001 to 5000 employees,3.9,92.7,69.7,36068
+622,Senior Scientist - Toxicologist - Product Integrity (Stewardship),47000,74000,101000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,72.1,39105
+623,Systems Engineer II - Data Analyst,49000,62500,76000,Raytheon,"Huntsville, AL",Aerospace & Defense,Company - Public,10000+ employees,3.7,91.3,60.9,27571
+624,Senior Research Analytical Scientist-Non-Targeted Analysis,43000,65500,88000,RTI International,"Durham, NC",Business Services,Nonprofit Organization,1001 to 5000 employees,4.3,99.8,63.8,27295
+625,Data Scientist,61000,85000,109000,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",Retail,Company - Public,10000+ employees,3.8,NaN,82.8,NaN
+626,Principal Data Scientist,113000,147500,182000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,143.7,NaN
+627,Director Data Science,124000,161500,199000,TRANZACT,"Fort Lee, NJ",Business Services,Company - Private,1001 to 5000 employees,3.6,NaN,157.3,NaN
+628,Data Engineer,58000,81000,104000,Carilion Clinic,"Roanoke, VA",Health Care,Nonprofit Organization,10000+ employees,3.7,94.1,78.9,44975
+629,Sr Data Analyst - IT,52000,72500,93000,United BioSource,"Blue Bell, PA",Biotech & Pharmaceuticals,Other Organization,1001 to 5000 employees,2.1,NaN,70.6,NaN
+630,Senior Data Engineer,97000,139000,181000,Figure Eight,"San Francisco, CA",Information Technology,Company - Public,51 to 200 employees,3.9,178.6,135.4,70632
+631,Senior Data Engineer,100000,136500,173000,Tapjoy,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,133.0,68168
+632,Sr. Data Analyst,58000,83000,108000,DoubleVerify,"New York, NY",Information Technology,Company - Private,201 to 500 employees,3.2,128.0,80.9,34055
+633,Research Scientist or Senior Research Scientist - Computer Vision,81000,121000,161000,Mitsubishi Electric Research Labs,"Cambridge, MA",Business Services,Subsidiary or Business Segment,51 to 200 employees,4.6,NaN,117.9,NaN
+634,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,53000,74500,96000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,72.6,25536
+635,Data Analyst Chemist - Quality System Contractor,61000,85500,110000,"Rodan and Fields, LLC","San Francisco, CA",Retail,Company - Private,501 to 1000 employees,2.2,178.6,83.3,17156
+636,Senior Scientist - Biostatistician,65000,80500,96000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,78.4,45571
+637,Research Scientist / Principal Research Scientist - Multiphysical Systems,115000,167500,220000,Mitsubishi Electric Research Labs,"Cambridge, MA",Business Services,Subsidiary or Business Segment,51 to 200 employees,4.6,NaN,163.2,NaN
+638,"Research Scientist, Machine Learning Department",71000,107500,144000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,104.7,71838
+639,Foundational Community Supports Data Analyst,32000,44500,57000,DESC,"Seattle, WA",Non-Profit,Nonprofit Organization,501 to 1000 employees,3.4,124.6,43.4,-3134
+640,"Senior Health Data Analyst, Star Ratings",79000,107500,136000,Johns Hopkins Health Care,"Glen Burnie, MD",Health Care,Company - Private,1001 to 5000 employees,3.3,NaN,104.7,NaN
+642,Sr. Data Analyst,50000,69500,89000,Community Behavioral Health,"Philadelphia, PA",Health Care,Company - Private,201 to 500 employees,3.7,103.4,67.7,29920
+643,"Senior Engineer, Data Management Engineering",68000,98500,129000,Western Digital,"Milpitas, CA",Information Technology,Company - Public,10000+ employees,3.5,NaN,96.0,NaN
+644,Quality Control Scientist III- Analytical Development,48000,80500,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.4,NaN
+646,Software Engineer Staff Scientist: Human Language Technologies,74000,99000,124000,Raytheon,"Cambridge, MD",Aerospace & Defense,Company - Public,10000+ employees,3.7,NaN,96.5,NaN
+647,"Manager, Safety Scientist, Medical Safety & Risk Management",68000,96500,125000,Agios Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,501 to 1000 employees,3.8,NaN,94.0,NaN
+648,"Assistant Director/Director, Office of Data Science",39000,53000,67000,Liberty Mutual Insurance,"Boston, MA",Insurance,Company - Private,10000+ employees,3.3,132.6,51.6,2222
+649,Sr. Data Engineer | Big Data SaaS Pipeline,71000,103000,135000,Bridg,"Los Angeles, CA",Information Technology,Company - Private,1 to 50 employees,2.7,140.6,100.4,49249
+650,Senior Risk Data Scientist,107000,139500,172000,Bill.com,"Palo Alto, CA",Finance,Company - Public,501 to 1000 employees,3.8,NaN,135.9,NaN
+651,Data Scientist in Artificial Intelligence Early Career,49000,67000,85000,Pacific Northwest National Laboratory,"Richland, WA","Oil, Gas, Energy & Utilities",Government,1001 to 5000 employees,3.8,NaN,65.3,NaN
+652,Consultant - Analytics Consulting,54000,62500,71000,Infosys,"Hartford, CT",Information Technology,Company - Public,10000+ employees,3.0,104.8,60.9,22405
+653,Scientist - CVRM Metabolism - in vivo pharmacology,61000,92000,123000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,89.6,NaN
+654,Data Analyst,47000,66000,85000,AXION Healthcare Solutions,"New York, NY",Health Care,Company - Private,1 to 50 employees,3.6,128.0,64.3,17017
+655,Data Engineer,65000,94500,124000,Alignment Healthcare,"Orange, CA",Health Care,Company - Private,501 to 1000 employees,3.5,NaN,92.1,NaN
+656,Data Scientist,87000,114000,141000,TRANZACT,"Fort Lee, NJ",Business Services,Company - Private,1001 to 5000 employees,3.6,NaN,111.1,NaN
+657,Data Scientist,56000,75500,95000,ExecOnline,"New York, NY",Education,Company - Private,51 to 200 employees,4.2,128.0,73.6,26563
+658,Data Scientist,71000,96000,121000,Charter Spectrum,"Maryland Heights, MO",Education,School / School District,1 to 50 employees,3.5,NaN,93.5,NaN
+659,Machine Learning Engineer,62000,87000,112000,Mteq,"Fort Belvoir, VA",Aerospace & Defense,Company - Public,501 to 1000 employees,4.0,NaN,84.8,NaN
+660,Data Scientist,64000,86000,108000,Brillient,"Silver Spring, MD",Information Technology,Company - Private,201 to 500 employees,3.7,NaN,83.8,NaN
+661,Senior Data Scientist,89000,116500,144000,Entefy,"Palo Alto, CA",Information Technology,Company - Private,1 to 50 employees,4.4,NaN,113.5,NaN
+662,Senior Scientist (Neuroscience),109000,154500,200000,Sunovion,"Marlborough, MA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,3.5,NaN,150.5,NaN
+663,Marketing Data Analyst,35000,48500,62000,San Manuel Casino,"Highland, CA","Arts, Entertainment & Recreation",Company - Private,1001 to 5000 employees,3.6,NaN,47.3,NaN
+664,Machine Learning Engineer - Regulatory,61000,87000,113000,Cboe Global Markets,"Lenexa, KS",Finance,Company - Public,501 to 1000 employees,3.7,NaN,84.8,NaN
+665,Data Engineer,55000,80000,105000,Trace3,"Houston, TX",Information Technology,Company - Private,501 to 1000 employees,3.4,95.8,77.9,43298
+667,Principal Data Scientist,135000,173000,211000,Northrop Grumman,"San Jose, CA",Aerospace & Defense,Company - Public,10000+ employees,3.7,173.5,168.6,106660
+668,R&D Specialist/ Food Scientist,39000,52500,66000,Teasdale Latin Foods,"Hoopeston, IL",Manufacturing,Company - Private,501 to 1000 employees,2.4,NaN,51.1,NaN
+669,Data Engineer,57000,68500,80000,Saama Technologies Inc,"Phoenix, AZ",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,3.5,104.3,66.7,28549
+670,"Associate Principal Scientist, Pharmacogenomics",63000,95000,127000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,92.6,NaN
+671,Data Scientist - Systems Engineering,50000,69500,89000,MITRE,"Bedford, MA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,67.7,NaN
+672,Senior Data Scientist,82000,107000,132000,The David J. Joseph Company,"Cincinnati, OH",Mining & Metals,Subsidiary or Business Segment,201 to 500 employees,4.4,92.4,104.2,71593
+673,Data Scientist SR,85000,112000,139000,The Buffalo Group,"Charlottesville, VA",Information Technology,Company - Private,501 to 1000 employees,3.9,102.1,109.1,72911
+674,Data Scientist,72000,96500,121000,CompQsoft,"Washington, DC",Business Services,Company - Private,51 to 200 employees,3.4,120.1,94.0,50524
+675,"Scientist, Bacteriology",74000,111500,149000,Cerus Corporation,"Concord, CA",Biotech & Pharmaceuticals,Company - Public,201 to 500 employees,2.1,NaN,108.6,NaN
+676,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",113000,154500,196000,Takeda Pharmaceuticals,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.7,NaN,150.5,NaN
+677,Data Scientist,69000,95000,121000,"Remedy BPCI Partners, LLC.","New York, NY",Health Care,Company - Private,201 to 500 employees,3.4,128.0,92.6,46064
+678,Data Scientist,71000,97500,124000,Strategic Financial Solutions,"New York, NY",Consumer Services,Company - Private,501 to 1000 employees,4.0,128.0,95.0,48528
+679,Senior Data Scientist,97000,128500,160000,Maven Wave Partners,"Chicago, IL",Business Services,Company - Private,201 to 500 employees,4.4,100.1,125.2,90201
+680,Senior Research Scientist-Machine Learning,81000,124000,167000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,120.8,88364
+681,Principal Data Scientist,150000,194000,238000,The Climate Corporation,"San Francisco, CA",Information Technology,Subsidiary or Business Segment,501 to 1000 employees,3.2,178.6,189.0,125647
+683,"Data Analyst 1, full-time contract worker for up to 12 months",35000,50000,65000,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",Non-Profit,Nonprofit Organization,10000+ employees,4.2,105.9,48.7,9462
+684,Data Scientist,77000,104500,132000,Crossix Solutions,"New York, NY",Business Services,Company - Public,201 to 500 employees,3.5,128.0,101.8,55507
+685,Data Scientist,51000,69500,88000,Solugenix Corporation,"Phoenix, AZ",Information Technology,Company - Private,201 to 500 employees,4.3,104.3,67.7,29576
+686,Data Scientist,101000,121000,141000,West Coast University,"Irvine, CA",Education,Company - Private,10000+ employees,2.6,NaN,117.9,NaN
+687,Data Engineer - Consultant (Charlotte Based),59000,85500,112000,Clarity Insights,"Charlotte, NC",Information Technology,Company - Private,201 to 500 employees,4.2,97.9,83.3,48037
+688,Data Engineer,79000,113000,147000,NCSOFT,"Aliso Viejo, CA",Media,Company - Public,1001 to 5000 employees,3.1,NaN,110.1,NaN
+689,Data Scientist (Warehouse Automation),79000,103000,127000,SoftBank Robotics,"San Francisco, CA",Manufacturing,Subsidiary or Business Segment,201 to 500 employees,3.8,178.6,100.4,34708
+690,"Scientist, Immuno-Oncology",62000,90500,119000,GSK,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,88.2,NaN
+691,Senior Data Scientist,119000,153000,187000,Factual,"Los Angeles, CA",Information Technology,Company - Private,51 to 200 employees,4.3,140.6,149.1,99234
+692,Jr. Data Scientist,81000,106500,132000,MITRE,"McLean, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,103.8,NaN
+693,Senior Data Scientist,120000,130000,140000,SkySync,"Ann Arbor, MI",Information Technology,Company - Private,51 to 200 employees,5.0,99.3,126.7,92047
+694,Products Data Analyst II,90000,123500,157000,TriNet,"Dublin, CA",Business Services,Company - Public,1001 to 5000 employees,3.3,NaN,120.3,NaN
+695,Data Architect / Data Modeler,63000,86500,110000,Medidata Solutions,"New York, NY",Information Technology,Company - Public,1001 to 5000 employees,4.3,128.0,84.3,37545
+696,Analytics Manager - Data Mart,42000,64000,86000,Central California Alliance for Health,"Scotts Valley, CA",Health Care,Nonprofit Organization,501 to 1000 employees,3.5,NaN,62.4,NaN
+697,Lead Data Analyst,32000,47000,62000,Signpost,"New York, NY",Information Technology,Company - Private,201 to 500 employees,3.9,128.0,45.8,-1971
+698,Data Science Engineer - Mobile,116000,162000,208000,Adobe,"San Jose, CA",Information Technology,Company - Public,10000+ employees,4.0,173.5,157.8,95574
+699,Senior Data Scientist Oncology,107000,140000,173000,AstraZeneca,"Gaithersburg, MD",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,136.4,NaN
+700,Data Scientist,65000,89000,113000,"DatamanUSA, LLC","Olympia, WA",Information Technology,Company - Private,51 to 200 employees,3.4,110.9,86.7,46552
+701,Sr. Data Engineer - Contract-to-Hire (Java),69000,98000,127000,Pilot Flying J Travel Centers LLC,"Knoxville, TN",Retail,Company - Private,10000+ employees,3.0,91.6,95.5,62970
+702,Senior Data Scientist - R&D Oncology,102000,137000,172000,AstraZeneca,"New York, NY",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,128.0,133.5,88044
+703,Data Engineer,74000,99000,124000,Pinnacol Assurance,"Denver, CO",Insurance,Nonprofit Organization,501 to 1000 employees,4.0,112.1,96.5,56151
+704,Food Scientist - Developer,40000,54000,68000,Palermo's Pizza,"Milwaukee, WI",Manufacturing,Company - Private,501 to 1000 employees,3.3,93.8,52.6,18095
+705,Senior Data Engineer,76000,109000,142000,Equian LLC,"Franklin, TN",Health Care,Company - Private,1001 to 5000 employees,3.2,NaN,106.2,NaN
+706,Data Engineer,76000,109000,142000,MetroStar Systems,"Rockville, MD",Information Technology,Company - Private,201 to 500 employees,3.4,NaN,106.2,NaN
+707,Senior Data Scientist,108000,139500,171000,MathWorks,"Natick, MA",Information Technology,Company - Private,1001 to 5000 employees,4.4,NaN,135.9,NaN
+708,"Director II, Data Science - GRM Actuarial",202000,254000,306000,Liberty Mutual Insurance,"Chicago, IL",Insurance,Company - Private,10000+ employees,3.3,100.1,247.5,215730
+709,Machine Learning Engineer,91000,125000,159000,Information Builders,"New York, NY",Information Technology,Company - Private,1001 to 5000 employees,3.2,128.0,121.8,76035
+710,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",80000,106500,133000,Novartis,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.8,NaN,103.8,NaN
+712,"Scientist, Molecular/Cellular Biologist",49000,73000,97000,Audentes Therapeutics,"South San Francisco, CA",Biotech & Pharmaceuticals,Subsidiary or Business Segment,201 to 500 employees,2.9,NaN,71.1,NaN
+713,Staff Scientist-Downstream Process Development,49000,81000,113000,Advanced BioScience Laboratories,"Rockville, MD",Biotech & Pharmaceuticals,Company - Private,201 to 500 employees,2.7,NaN,78.9,NaN
+714,Data Scientist,96000,128500,161000,"Numeric, LLC","Philadelphia, PA",Business Services,Company - Private,1 to 50 employees,3.2,103.4,125.2,88938
+715,Scientist - Analytical Services,65000,99500,134000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,96.9,64560
+716,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",59000,92000,125000,23andMe,"South San Francisco, CA",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,4.0,NaN,89.6,NaN
+717,Associate Data Analyst- Graduate Development Program,32000,45500,59000,National Interstate,"Richfield, OH",Insurance,Company - Private,501 to 1000 employees,3.3,NaN,44.3,NaN
+718,Sr. Data Engineer,87000,122500,158000,Moser Consulting,"Indianapolis, IN",Business Services,Company - Private,51 to 200 employees,4.5,90.2,119.3,87934
+719,Clinical Data Analyst,27000,37500,48000,Greenway Health,"Tampa, FL",Information Technology,Subsidiary or Business Segment,1001 to 5000 employees,3.0,101.4,36.5,-1338
+720,IT Associate Data Analyst,39000,54000,69000,The Hanover Insurance Group,"Worcester, MA",Insurance,Company - Public,5001 to 10000 employees,3.7,113.2,52.6,10672
+721,Business Data Analyst,36000,53500,71000,Fareportal,"New York, NY",Travel & Tourism,Company - Private,1001 to 5000 employees,3.8,128.0,52.1,4495
+722,Senior Insurance Data Scientist,107000,140000,173000,TransUnion,"Chicago, IL",Finance,Company - Public,5001 to 10000 employees,3.9,100.1,136.4,101697
+723,Senior Data Science Systems Engineer,56000,77500,99000,MITRE,"Hampton, VA",Government,Nonprofit Organization,5001 to 10000 employees,3.2,NaN,75.5,NaN
+725,Senior Scientist - Regulatory Submissions,80000,117500,155000,Reynolds American,"Winston-Salem, NC",Manufacturing,Company - Private,5001 to 10000 employees,3.1,91.2,114.5,82624
+726,Scientist - Biomarker and Flow Cytometry,43000,70500,98000,Crown Bioscience,"San Diego, CA",Biotech & Pharmaceuticals,Company - Private,501 to 1000 employees,2.4,136.2,68.7,18395
+727,Revenue Analytics Manager,45000,61500,78000,HOVER,"San Francisco, CA",Information Technology,Company - Private,51 to 200 employees,4.8,178.6,59.9,-6862
+728,Sr. Scientist Method Development,50000,80000,110000,Q2 Solutions,"Marietta, GA",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,NaN,77.9,NaN
+729,"Associate Scientist, LC/MS Biologics",44000,70000,96000,Q2 Solutions,"Ithaca, NY",Biotech & Pharmaceuticals,Company - Private,1001 to 5000 employees,2.9,101.7,68.2,31084
+731,IT - Data Engineer II,61000,90000,119000,Arbella Insurance,"Quincy, MA",Insurance,Company - Private,1001 to 5000 employees,3.4,NaN,87.7,NaN
+732,Machine Learning Engineer (NLP),80000,111000,142000,CK-12 Foundation,"Palo Alto, CA",Education,Company - Private,1 to 50 employees,4.1,NaN,108.1,NaN
+733,Senior Data Analyst,99000,138500,178000,Life360,"San Francisco, CA",Information Technology,Company - Public,51 to 200 employees,3.9,178.6,134.9,70118
+734,Data Science Project Manager,37000,68500,100000,MassMutual,"Boston, MA",Insurance,Company - Private,5001 to 10000 employees,3.6,132.6,66.7,17720
+735,Data Engineer,62000,87500,113000,Fivestars,"San Francisco, CA",Information Technology,Company - Private,201 to 500 employees,3.9,178.6,85.2,19106
+736,"Principal, Data Science - Advanced Analytics",86000,111500,137000,IQVIA,"Plymouth Meeting, PA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.6,NaN,108.6,NaN
+737,"Sr Scientist, Immuno-Oncology - Oncology",58000,84500,111000,GSK,"Cambridge, MA",Biotech & Pharmaceuticals,Company - Public,10000+ employees,3.9,NaN,82.3,NaN
+738,Senior Data Engineer,72000,102500,133000,Eventbrite,"Nashville, TN",Information Technology,Company - Public,1001 to 5000 employees,4.4,100.1,99.9,64233
+739,"Project Scientist - Auton Lab, Robotics Institute",56000,73500,91000,Software Engineering Institute,"Pittsburgh, PA",Education,College / University,501 to 1000 employees,2.6,93.1,71.6,37865
+740,Data Science Manager,95000,127500,160000,"Numeric, LLC","Allentown, PA",Business Services,Company - Private,1 to 50 employees,3.2,98.9,124.2,89634
+741,Research Scientist – Security and Privacy,61000,93500,126000,Riverside Research Institute,"Beavercreek, OH",Government,Nonprofit Organization,501 to 1000 employees,3.6,NaN,91.1,NaN
