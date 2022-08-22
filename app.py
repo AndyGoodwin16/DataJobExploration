@@ -6,20 +6,26 @@ from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify, render_template
+import pandas as pd
+
 
 
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///titanic.sqlite")
+engine = create_engine("sqlite:///data_jobs_db.sqlite")
 
-# reflect an existing database into a new model
+conn = engine.connect()
+
 Base = automap_base()
+
 # reflect the tables
 Base.prepare(engine, reflect=True)
 
-# Save reference to the table
-Passenger = Base.classes.passenger
+df = pd.read_csv('data/working_table.csv')
+df = df.loc[:,'job_title':]
+df.to_sql('jobs',con=engine,if_exists='replace',index=True)
+sql_df = pd.read_sql_table('jobs',con=engine)
 
 #################################################
 # Flask Setup
