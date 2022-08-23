@@ -18,7 +18,7 @@
 var table_plot = makeTable()
   .datum(data_baby)
   .sortBy('company_name', true)
-  .filterCols(['middle_range_salary', 'high_end_salary', 'job_location', 'rating_of_company','avg_salary_index']);
+  .filterCols(['FIELD1','low_end_salary', 'high_end_salary', 'cost_of_living', 'cost_of_living_index', 'state', 'salary_col_differential', 'lat', 'lng', 'rating_of_company','avg_salary_index']);
 
 d3.select('#container').call(table_plot);
 
