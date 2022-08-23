@@ -7,25 +7,31 @@ from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify, render_template
 import pandas as pd
+import sqlite3
 
 
 
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("sqlite:///data_jobs_db.sqlite")
+def add_data_to_db():
+    engine = create_engine("sqlite:///data_jobs_db.sqlite")
+    conn = engine.connect()
+    Base = automap_base()
+    # reflect the tables
+    Base.prepare(engine, reflect=True)
+    df = pd.read_csv('data/working_table.csv')
+    df = df.loc[:,'job_title':]
+    df.to_sql('jobs',con=engine,if_exists='replace',index=True)
+    #sql_df = pd.read_sql_table('jobs',con=engine)
+    df2 = pd.read_csv('data/working_table2.csv')
+    df2.to_sql('states',con=engine,if_exists='replace',index=True)
 
-conn = engine.connect()
+def attempt_2_connect(): 
+    conn = sqlite3.connect('data_jobs_db.sqlite')
+    conn.row_factory = sqlite3.Row
+    return conn
 
-Base = automap_base()
-
-# reflect the tables
-Base.prepare(engine, reflect=True)
-
-df = pd.read_csv('data/working_table.csv')
-df = df.loc[:,'job_title':]
-df.to_sql('jobs',con=engine,if_exists='replace',index=True)
-sql_df = pd.read_sql_table('jobs',con=engine)
 
 #################################################
 # Flask Setup
@@ -38,10 +44,12 @@ app = Flask(__name__)
 #################################################
 
 @app.route("/")
-def welcome():
+def index():
     # """guess you need text here"""
-    return render_template('index.html')
-
+    conn = attempt_2_connect()
+    data = conn.execute('SELECT * FROM jobs').fetchall()
+    conn.close()
+    return render_template('index.html', data=data)
 
 @app.route("/api/v1.0/names")
 def names():
