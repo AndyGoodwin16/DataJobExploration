@@ -17,10 +17,13 @@ Initial thoughts on databases you might use (PgAmin/MongoDB):
 PgAdmin/SQL because our dataset fits well in a table
 
 Initial ideas for pages or visuals (this can change):
-Maps plotting markers (based on the city location) that display company name/size/industry/salary, 
-Dropdown by any of these metrics (location, company name, size, industry, salary, type of ownership,) 
-Also filter options for fine tuning, 
-Heatmap layer by salary estimates, 
-Interactable graphs
--- Average salary per state versus estimated data job salary -- 
-Raw data interactable: https://developers.google.com/chart/interactive/docs/gallery/table 
+-Bar Chart
+    -Uses 3 buttons to change the data set sorted by state
+-Scatter Plot
+    -Cost of living index versus median salary for data scientist by state
+    -utilizes tooltips to show more information when mousing over data point
+-Data Table
+    -sorts data by the column
+    -has all 707 lines of the data
+    -search function throughout the entire dataset
+
