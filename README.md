@@ -1,7 +1,7 @@
 <h1>Team Name: Data Jobs Exploration</h1> 
 <h3>Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin</h3> 
 <br>
-<p>*Our questions and areas of interests-* 
+<p><em>Our questions and areas of interests-</em> 
 What are the salary estimates for data related jobs?
 what locations give the highest differential between salary and cost of living?
 Filter by;
@@ -11,14 +11,14 @@ Company size,
 Business sector,
 Relative cost of living</p> 
 <br>
-<p>*Data sources used-*
+<p><em>Data sources used-</em>
 https://github.com/PlayingNumbers/ds_salary_proj.git,
 https://advisorsmith.com/data/coli/</p>
 <br>
-<p>*Database used-*
+<p><em>Database used-</em>
 PgAdmin/SQL because our dataset fits well in a table</p>
 <br>
-<p>*Details on visuals-*
+<p><em>Details on visuals-</em>
 -Bar Chart
     -Uses three buttons to switch between datasets
 -Scatter Plot
