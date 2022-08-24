@@ -33,7 +33,7 @@
 </head>
 
 <body>
-    <h1>Cost of Living index</h1>
+    <h1>Cost of Living Index</h1>
     <script type="text/javascript">
         //Width and height of map
         var width = 960;
@@ -58,7 +58,7 @@
             .attr("height", height);
 
         // Load in my states data!
-        d3.csv("states.csv", function(data) {
+        d3.csv("col.csv", function(data) {
             var dataArray = [];
             for (var d = 0; d < data.length; d++) {
                 dataArray.push(parseFloat(data[d].value))
@@ -154,7 +154,7 @@
             });
         });
     </script>
-    <h2>(a score of 100 is defined as the national average)</h2>
+    <h3>(a score of 100 is defined as the national average)</h3>
 </body>
 
 </html>
