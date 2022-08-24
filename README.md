@@ -19,15 +19,15 @@ https://advisorsmith.com/data/coli/</p>
 PgAdmin/SQL because our dataset fits well in a table</p>
 <br>
 <p><em>Details on visuals-</em>
--Bar Chart
+1.Bar Chart
     -Uses three buttons to switch between datasets
--Scatter Plot
+2.Scatter Plot
     -Cost of living index versus median salary for data scientist by state
     -utilizes tooltips to show more information when mousing over data point
--Data Table
+3.Data Table
     -sorts data by the column name
     -has all 707 lines of the data
     -search function throughout the entire dataset
--Maps
+4.Maps
     -Has three gradient heat maps showing cost of living index, salary and cost of living differential, and average salary by state</p>
 
