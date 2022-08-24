@@ -1,29 +1,33 @@
-Team Name: Data Jobs Exploration 
-Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin 
-
-What is your question you want answered or how you want end users (i.e. the public) to use your site or visualizations. 
-What are the salary estimates for data related jobs? Filtering by…
+<h1>Team Name: Data Jobs Exploration</h1> 
+<h3>Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin</h3> 
+<br>
+<p><em>Our questions and areas of interests-</em> 
+What are the salary estimates for data related jobs?
+what locations give the highest differential between salary and cost of living?
+Filter by;
 Location,
 Company name (public or private shown with name),
 Company size,
 Business sector,
-Using relative cost of living, what locations give the highest differential between salary and cost of living (if time permits!!!)?
-
-Data sources:
+Relative cost of living</p> 
+<br>
+<p><em>Data sources used-</em>
 https://github.com/PlayingNumbers/ds_salary_proj.git,
-https://advisorsmith.com/data/coli/ (if time permits!!!)
-
-Initial thoughts on databases you might use (PgAmin/MongoDB):
-PgAdmin/SQL because our dataset fits well in a table
-
-Initial ideas for pages or visuals (this can change):
--Bar Chart
-    -Uses 3 buttons to change the data set sorted by state
--Scatter Plot
+https://advisorsmith.com/data/coli/</p>
+<br>
+<p><em>Database used-</em>
+PgAdmin/SQL because our dataset fits well in a table</p>
+<br>
+<p><em>Details on visuals-</em>
+1.Bar Chart
+    -Uses three buttons to switch between datasets
+2.Scatter Plot
     -Cost of living index versus median salary for data scientist by state
     -utilizes tooltips to show more information when mousing over data point
--Data Table
-    -sorts data by the column
+3.Data Table
+    -sorts data by the column name
     -has all 707 lines of the data
     -search function throughout the entire dataset
+4.Maps
+    -Has three gradient heat maps showing cost of living index, salary and cost of living differential, and average salary by state</p>
 
