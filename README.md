@@ -16,7 +16,7 @@ https://github.com/PlayingNumbers/ds_salary_proj.git,
 https://advisorsmith.com/data/coli/</p>
 <br>
 <p><em>Database used-</em>
-PgAdmin/SQL because our dataset fits well in a table</p>
+PgAdmin/SQL</p>
 <br>
 <p><em>Details on visuals-</em>
 1.Bar Chart
