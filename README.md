@@ -1,5 +1,5 @@
-<p>Team Name: Data Jobs Exploration 
-Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin 
+<h1>Team Name: Data Jobs Exploration</h1> 
+<h2>Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin</h2> 
 <br>
 Our questions and areas of interests- 
 What are the salary estimates for data related jobs?
@@ -13,7 +13,7 @@ Relative cost of living
 <br>
 Data sources used-
 https://github.com/PlayingNumbers/ds_salary_proj.git,
-https://advisorsmith.com/data/coli/ (if time permits!!!)
+https://advisorsmith.com/data/coli/
 <br>
 Database used-
 PgAdmin/SQL because our dataset fits well in a table
