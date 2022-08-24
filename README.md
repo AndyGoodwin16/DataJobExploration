@@ -1,4 +1,4 @@
-Team Name: Data Jobs Exploration 
+<p>Team Name: Data Jobs Exploration 
 Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin 
 <br>
 Our questions and areas of interests- 
@@ -20,12 +20,14 @@ PgAdmin/SQL because our dataset fits well in a table
 <br>
 Details on visuals-
 -Bar Chart
-    -Uses 2 buttons to change the data set sorted by state
+    -Uses three buttons to switch between datasets
 -Scatter Plot
     -Cost of living index versus median salary for data scientist by state
     -utilizes tooltips to show more information when mousing over data point
 -Data Table
-    -sorts data by the column
+    -sorts data by the column name
     -has all 707 lines of the data
     -search function throughout the entire dataset
+-Maps
+    -Has three gradient heat maps showing cost of living index, salary and cost of living differential, and average salary by state
 
