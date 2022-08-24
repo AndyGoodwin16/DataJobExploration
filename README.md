@@ -16,7 +16,7 @@ https://github.com/PlayingNumbers/ds_salary_proj.git,
 https://advisorsmith.com/data/coli/</p>
 <br>
 <p><em>Database used-</em>
-PgAdmin/SQL</p>
+We used SQLite to house our database because our data is relational. Additionally, SQLite is lightweight, open-source and server-less</p>
 <br>
 <p><em>Details on visuals-</em>
 1.Bar Chart
