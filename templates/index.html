@@ -184,25 +184,25 @@
    <section id="contact" class="contact">
       <div class="container" data-aos="fade-up">
   <h1>Project Details</h1>
-  <h3>Team Name: Data Jobs Exploration</h3>
-  <h3>Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin</h3>
+  <h4>Team Name: Data Jobs Exploration</h4>
+  <h4>Team Members: B. Slone, Joe Mazanec, Sydney Cohen, Andrew Goodwin</h4>
   <br></br>
   <h3>Our questions and areas of interests:</h3>
-  <h4>What are the salary estimates for data related jobs?</h4>
-  <h4>What locations give the highest differential between salary and cost of living?</h4>
-  <h4>Filter by; </h4>
-  <h5>Location</h5>
-  <h5>Company name (public or private shown with name)</h5>
-  <h5>Company size</h5>
-  <h5>Business sector</h5>
-  <h5>Relative cost of living</h5>
+  <h5>What are the salary estimates for data related jobs?</h5>
+  <h5>What locations give the highest differential between salary and cost of living?</h5>
+  <h5>Filter by; </h5>
+  <h6>Location</h6>
+  <h6>Company name (public or private shown with name)</h6>
+  <h6>Company size</h6>
+  <h6>Business sector</h6>
+  <h6>Relative cost of living</h6>
   <br></br>
   <h3>Data sources used</h3>
-  <a href="https://github.com/PlayingNumbers/ds_salary_proj.git"><h4>Playing Numbers Github</h4></a>
-  <a href="https://advisorsmith.com/data/coli/"><h4>Cost of Living Data</h4></a>
+  <a href="https://github.com/PlayingNumbers/ds_salary_proj.git"><h5>Playing Numbers Github</h5></a>
+  <a href="https://advisorsmith.com/data/coli/"><h5>Cost of Living Data</h5></a>
   <br></br>
   <h3>Database used </h3>
-  <h4>We used SQLite to house our database because our data is relational. Additionally, SQLite is lightweight, open-source and server-less</h4>
+  <h5>We used SQLite to house our database because our data is relational. Additionally, SQLite is lightweight, open-source and server-less</h5>
   <br></br>
   <h3>Details on visuals </h3>
   <h4>Bar Chart</h4>
@@ -216,7 +216,13 @@
       <h5>Search function throughout the entire dataset</h5>
   <h4>Maps</h4>
       <h5>Has three gradient heat maps showing cost of living index, salary and cost of living differential, and average salary by state</h5>
-
+  <br></br>
+  <h3>Limitations</h3>
+        <h5>1. While cleaning and preparing the data, we discovered that we didn't have usable info on all states for cost of living and salary. Those states were removed from the dataset for readability in visuals.</h5>
+        <h5>2. The data we cleaned and used is from 2020 and does not provide the most current information.</h5>
+        <h5>3. Although all of our data is housed in SQLite, we were unable to connect and query our SQLite database within the flask app.</h5>
+  <a href="https://github.com/bslone1/project-3.git" class="github"><i class="bx bxl-github"></i></a>
+  
   </main><!-- End #main -->
 </div>
 </section><!-- End Portfolio Section -->
