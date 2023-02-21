@@ -45,7 +45,7 @@ var yAxis = svg.append("g")
 function update(selectedVar) {
 
   // Parse the Data
-  d3.csv("../data/working_table2.csv", function(data) {
+  d3.csv("working_table2.csv", function(data) {
 
     // X axis
     x.domain(data.map(function(d) { return d.state; }))
